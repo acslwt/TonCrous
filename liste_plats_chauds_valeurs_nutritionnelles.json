@@ -1,0 +1,1632 @@
+{
+    "AIGUILLETTE DE POULET PAN\u00c9": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.2,
+            "Sucres simples": 1.4,
+            "Kj": 1129.0,
+            "Kcal": 270.0,
+            "Lipides": 9.3,
+            "Glucides": 23.0,
+            "Fibres": 0.0,
+            "Proteines": 23.0,
+            "Sel": 1.5
+        },
+        "ingredients": [
+            "dont aiguillette de poulet 51% - origine France"
+        ],
+        "allergenes": [
+            "Gluten"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "BEIGNETS DE POISSON": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.8,
+            "Sucres simples": 2.4,
+            "Kj": 757.0,
+            "Kcal": 181.0,
+            "Lipides": 7.7,
+            "Glucides": 11.6,
+            "Fibres": 0.0,
+            "Proteines": 16.8,
+            "Sel": 1.3
+        },
+        "ingredients": [
+            "BEIGNETS DE POISSON 100% (dont morceaux de COLIN 77% - Oc\u00e9an Pacifique Nord-est ou Nord-ouest)"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Poisson"
+        ],
+        "vegetarien": false,
+        "halal": true
+    },
+    "BOUCH\u00c9ES DE BL\u00c9 THA\u00cf PAN\u00c9ES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.1,
+            "Sucres simples": 2.0,
+            "Kj": 988.0,
+            "Kcal": 236.0,
+            "Lipides": 12.4,
+            "Glucides": 17.3,
+            "Fibres": 3.8,
+            "Proteines": 12.1,
+            "Sel": 0.84
+        },
+        "ingredients": [
+            "Pr\u00e9paration \u00e0 base de prot\u00e9ines v\u00e9g\u00e9tales 80% (dont prot\u00e9ines de bl\u00e9 11%), ENROBAGE 20%."
+        ],
+        "allergenes": [
+            "Gluten",
+            "Soja"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "BROCHETTE DE POISSON PAN\u00c9": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.0,
+            "Sucres simples": 1.1,
+            "Kj": 768.0,
+            "Kcal": 184.0,
+            "Lipides": 7.2,
+            "Glucides": 14.9,
+            "Fibres": 0.0,
+            "Proteines": 14.9,
+            "Sel": 1.2
+        },
+        "ingredients": [
+            "dont POISSON blanc 75,6% (transform\u00e9 en France)"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Poisson"
+        ],
+        "vegetarien": false,
+        "halal": true
+    },
+    "CALMAR \u00c0 LA ROMAINE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.2,
+            "Sucres simples": 2.6,
+            "Kj": 1119.0,
+            "Kcal": 268.0,
+            "Lipides": 9.5,
+            "Glucides": 35.5,
+            "Fibres": 3.0,
+            "Proteines": 8.6,
+            "Sel": 2.3
+        },
+        "ingredients": [
+            "CALMAR \u00e0 la Romaine 100% (dont ANNEAUX D'ENCORNET 40% - origine Espagne)"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Mollusque",
+            "Poisson"
+        ],
+        "vegetarien": false,
+        "halal": true
+    },
+    "CLAFOUTI AUX POIREAUX": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 8.1,
+            "Sucres simples": 7.8,
+            "Kj": 857.0,
+            "Kcal": 204.0,
+            "Lipides": 14.0,
+            "Glucides": 9.8,
+            "Fibres": 6.2,
+            "Proteines": 6.7,
+            "Sel": 0.39
+        },
+        "ingredients": [
+            "Poireaux 48,2%",
+            "CREME fraiche 18% MG 23% (LAIT origine France)",
+            "oignons 16,1%",
+            "OEUFS entiers 11,5%",
+            "BEURRE, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "CORDON BLEU": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 4.9,
+            "Sucres simples": 2.1,
+            "Kj": 1259.0,
+            "Kcal": 301.0,
+            "Lipides": 18.8,
+            "Glucides": 16.3,
+            "Fibres": 2.8,
+            "Proteines": 15.0,
+            "Sel": 1.6
+        },
+        "ingredients": [
+            "CORDON BLEU 100% (dont tranche de viande blanche de dindonneau trait\u00e9e en salaison 55% - origine UE)"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Soja"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "CUISSE DE POULET AUX ARACHIDES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 4.2,
+            "Sucres simples": 3.6,
+            "Kj": 996.0,
+            "Kcal": 238.0,
+            "Lipides": 16.4,
+            "Glucides": 6.2,
+            "Fibres": 1.6,
+            "Proteines": 15.8,
+            "Sel": 1.5
+        },
+        "ingredients": [
+            "Cuisse de poulet 67,7% (origine France)",
+            "tomates pel\u00e9es concass\u00e9es 12,4%",
+            "fond blanc de volaille reconstitu\u00e9 5,2%",
+            "concentr\u00e9 de tomate 5%",
+            "CACAHUETES grill\u00e9es et sal\u00e9es 4,4%",
+            "oignons 3,9%",
+            "sucre, huile de tournesol/olive, sel, piment doux, poivre"
+        ],
+        "allergenes": [
+            "Arachide"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "CUISSE DE POULET R\u00d4TI": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 4.2,
+            "Sucres simples": 0.0,
+            "Kj": 822.0,
+            "Kcal": 197.0,
+            "Lipides": 14.4,
+            "Glucides": 0.0,
+            "Fibres": 0.0,
+            "Proteines": 16.1,
+            "Sel": 0.86
+        },
+        "ingredients": [
+            "Cuisse de poulet 98,8% (origine France)",
+            "herbes de Provence, sel, poivre"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "CURRY DE L\u00c9GUMES LAIT DE COCO": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 9.0,
+            "Sucres simples": 6.3,
+            "Kj": 1002.0,
+            "Kcal": 240.0,
+            "Lipides": 15.0,
+            "Glucides": 15.6,
+            "Fibres": 8.4,
+            "Proteines": 7.5,
+            "Sel": 0.99
+        },
+        "ingredients": [
+            "Lait de coco 16,9%",
+            "lentilles corail cuites 14,9%",
+            "haricots verts 11,8%",
+            "courgettes 11,8%",
+            "champignons 11,8%",
+            "carottes 11,8%",
+            "tomates pel\u00e9es concass\u00e9es 11,8%",
+            "\u00e9chalote, BEURRE, huile de tournesol/olive, ail, curry 0,3%, garam masala, curcuma, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "C\u00d4TE DE PORC CHARCUTI\u00c8RE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 4.8,
+            "Sucres simples": 0.8,
+            "Kj": 854.0,
+            "Kcal": 204.0,
+            "Lipides": 13.2,
+            "Glucides": 2.4,
+            "Fibres": 0.6,
+            "Proteines": 16.5,
+            "Sel": 1.4
+        },
+        "ingredients": [
+            "C\u00f4te de porc 75% (origine France)",
+            "fond brun li\u00e9 reconsitu\u00e9 7,8%",
+            "oignons 5,9%",
+            "cornichons 3,4%",
+            "MOUTARDE 3,4%",
+            "VIN blanc, huile de tournesol/olive, sel, poivre, laurier, clou de girofle"
+        ],
+        "allergenes": [
+            "Moutarde",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "C\u00d4TE DE PORC GRILL\u00c9E": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.3,
+            "Sucres simples": 0.0,
+            "Kj": 641.0,
+            "Kcal": 153.0,
+            "Lipides": 6.9,
+            "Glucides": 0.0,
+            "Fibres": 0.0,
+            "Proteines": 23.0,
+            "Sel": 0.82
+        },
+        "ingredients": [
+            "C\u00f4te de porc 99,1% (origine France)",
+            "se, herbes de Provence, poivre"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "EMINC\u00c9S DE BL\u00c9 FA\u00c7ON BLANQUETTE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 6.1,
+            "Sucres simples": 2.9,
+            "Kj": 1022.0,
+            "Kcal": 245.0,
+            "Lipides": 13.1,
+            "Glucides": 15.8,
+            "Fibres": 5.0,
+            "Proteines": 15.0,
+            "Sel": 2.1
+        },
+        "ingredients": [
+            "Eminc\u00e9s de BLE pois chiches 52,7%",
+            "SAUCE 18,6% [BEURRE, FARINE, CREME fraiche 18% MG (LAIT origine France)]",
+            "oignons 10,8%",
+            "champignons 5,4%",
+            "carottes 5,4%",
+            "poireaux 5,4%",
+            "bouillon de l\u00e9gumes, sel, herbes de Provence, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "EMINC\u00c9S DE BL\u00c9 SAUCE TERIYAKI": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.5,
+            "Sucres simples": 5.9,
+            "Kj": 959.0,
+            "Kcal": 229.0,
+            "Lipides": 10.4,
+            "Glucides": 14.5,
+            "Fibres": 6.3,
+            "Proteines": 18.2,
+            "Sel": 1.8
+        },
+        "ingredients": [
+            "Eminc\u00e9s de BLE pois chiches 50,7%",
+            "oignons 20,9%",
+            "petits pois 14,9%",
+            "graines de courges bio 6%",
+            "SAUCE TERIYAKI 6%",
+            "huile d'olive, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Soja",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "ESCALOPE DE PORC FORESTI\u00c8RE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.7,
+            "Sucres simples": 1.0,
+            "Kj": 653.0,
+            "Kcal": 157.0,
+            "Lipides": 7.0,
+            "Glucides": 2.4,
+            "Fibres": 0.6,
+            "Proteines": 19.2,
+            "Sel": 0.88
+        },
+        "ingredients": [
+            "Escalope de porc 69,1% (origine France)",
+            "m\u00e9alnge de champignons forestiers 10,9% (bolets jaunes, lentins de ch\u00eane, c\u00e8pes, pleurotes)",
+            "fond brun li\u00e9 6,5%",
+            "CREME fraiche 18% MG 6,3% (LAIT origine France)",
+            "oignons 5,5%",
+            "VIN blanc, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "ESCALOPE DE PORC GRILL\u00c9E": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 3.1,
+            "Sucres simples": 0.0,
+            "Kj": 916.0,
+            "Kcal": 220.0,
+            "Lipides": 14.4,
+            "Glucides": 0.0,
+            "Fibres": 0.0,
+            "Proteines": 22.8,
+            "Sel": 0.79
+        },
+        "ingredients": [
+            "Escalope de porc 91,8% (origine France)",
+            "huile de tournesol/olive, sel, poivre"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "ESCALOPE VIENNOISE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 4.6,
+            "Sucres simples": 1.3,
+            "Kj": 1196.0,
+            "Kcal": 286.0,
+            "Lipides": 16.3,
+            "Glucides": 17.5,
+            "Fibres": 1.1,
+            "Proteines": 17.5,
+            "Sel": 1.6
+        },
+        "ingredients": [
+            "Dinde VIENNOISE 100% (dont filets de dinde trait\u00e9s en salaison 73% - origine UE)"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Oeuf"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "FILET DE COLIN BEURRE BLANC LIMA": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 11.2,
+            "Sucres simples": 1.4,
+            "Kj": 1113.0,
+            "Kcal": 266.0,
+            "Lipides": 17.5,
+            "Glucides": 2.1,
+            "Fibres": 0.4,
+            "Proteines": 22.8,
+            "Sel": 0.95
+        },
+        "ingredients": [
+            "Pav\u00e9 de COLIN 69% (p\u00each\u00e9 en Atlantique Nord Est)",
+            "CREME fraiche 18% MG 11,5% (LAIT origine France)",
+            "BEURRE 11,5%",
+            "\u00e9chalote 5,8%",
+            "VIN blanc, citron vert, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait",
+            "Poisson",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "FILET DE MERLU SAUCE BONNE FEMME": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 3.3,
+            "Sucres simples": 1.6,
+            "Kj": 711.0,
+            "Kcal": 170.0,
+            "Lipides": 7.4,
+            "Glucides": 6.1,
+            "Fibres": 0.7,
+            "Proteines": 17.5,
+            "Sel": 1.3
+        },
+        "ingredients": [
+            "Filet de MERLU 55,4% (p\u00each\u00e9 en Atlantique Sud Est)",
+            "CREME fraiche 18% MG 17,3% (LAIT origine France)",
+            "champignons 11,5%",
+            "FUMET de POISSON reconstitu\u00e9 6,5%",
+            "FARINE, \u00e9chalote, huile de tournesol/olive, VIN blanc, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Poisson",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "FILET DE MERLU SAUCE SAFRAN\u00c9E": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.4,
+            "Sucres simples": 1.2,
+            "Kj": 639.0,
+            "Kcal": 153.0,
+            "Lipides": 6.0,
+            "Glucides": 6.0,
+            "Fibres": 0.5,
+            "Proteines": 18.0,
+            "Sel": 1.2
+        },
+        "ingredients": [
+            "Filet de MERLU 66,4% (p\u00each\u00e9 en Atlantique Sud Est)",
+            "CREME fraiche 18% MG 13,8% (LAIT origine France)",
+            "FUMET de POISSON reconstitu\u00e9 7,9%",
+            "FARINE, \u00e9chalote, huile de tournesol/olive, VIN blanc, \u00e9pices pael'or 0,7%, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Poisson",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "FILET DE MERLU SAUCE \u00c9CHALOTE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.3,
+            "Sucres simples": 1.1,
+            "Kj": 617.0,
+            "Kcal": 147.0,
+            "Lipides": 5.6,
+            "Glucides": 5.6,
+            "Fibres": 0.3,
+            "Proteines": 16.5,
+            "Sel": 1.1
+        },
+        "ingredients": [
+            "Filet de MERLU 65,9% (p\u00each\u00e9 en Oc\u00e9an Atlantique Sud Est)",
+            "CREME fraiche 18% MG 13,7% (LAIT origine France)",
+            "fumet de POISSON reconstitu\u00e9 7,9%",
+            "FARINE, \u00e9chalote 3,4%, VIN blanc, huile de colza, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Poisson",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "FILET DE POISSON BLANC AUX AMANDES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.3,
+            "Sucres simples": 0.0,
+            "Kj": 952.0,
+            "Kcal": 228.0,
+            "Lipides": 15.3,
+            "Glucides": 4.2,
+            "Fibres": 3.1,
+            "Proteines": 16.8,
+            "Sel": 1.2
+        },
+        "ingredients": [
+            "POISSON blanc aux AMANDES 100% (dont POISSON blanc 70%, AMANDES grill\u00e9es 1,7% - Transform\u00e9 en France)"
+        ],
+        "allergenes": [
+            "Fruit \u00e0 coque",
+            "Gluten",
+            "Poisson"
+        ],
+        "vegetarien": false,
+        "halal": true
+    },
+    "FILET DE POISSON BLANC MEUNI\u00c8RE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.5,
+            "Sucres simples": 1.2,
+            "Kj": 650.0,
+            "Kcal": 156.0,
+            "Lipides": 4.7,
+            "Glucides": 11.3,
+            "Fibres": 0.8,
+            "Proteines": 15.7,
+            "Sel": 0.81
+        },
+        "ingredients": [
+            "FILET DE POISSON MEUNIERE 76,9% (dont POISSON blanc 79% - Transform\u00e9 en France)",
+            "citron 23,1%"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Poisson"
+        ],
+        "vegetarien": false,
+        "halal": true
+    },
+    "FILET DE POISSON BLANC \u00c0 LA BORDELAISE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.6,
+            "Sucres simples": 1.2,
+            "Kj": 1000.0,
+            "Kcal": 239.0,
+            "Lipides": 15.3,
+            "Glucides": 9.0,
+            "Fibres": 1.3,
+            "Proteines": 15.6,
+            "Sel": 1.3
+        },
+        "ingredients": [
+            "POISSON BLANC \u00e0 la Bordelaise 100% (dont POISSON 70%) - Transform\u00e9 en France."
+        ],
+        "allergenes": [
+            "Gluten",
+            "Poisson"
+        ],
+        "vegetarien": false,
+        "halal": true
+    },
+    "FISH N CHIPS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.7,
+            "Sucres simples": 1.9,
+            "Kj": 1049.0,
+            "Kcal": 251.0,
+            "Lipides": 13.2,
+            "Glucides": 18.1,
+            "Fibres": 1.3,
+            "Proteines": 14.2,
+            "Sel": 1.0
+        },
+        "ingredients": [
+            "dont POISSON blanc 57% (COLIN d'Alaska, CABILLAUD, MERLU, HOKI) - Transform\u00e9 en France"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Poisson"
+        ],
+        "vegetarien": false,
+        "halal": true
+    },
+    "GALETTE DE QUINOA \u00c0 LA PROVEN\u00c7ALE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.6,
+            "Sucres simples": 4.2,
+            "Kj": 717.0,
+            "Kcal": 171.0,
+            "Lipides": 6.4,
+            "Glucides": 20.8,
+            "Fibres": 5.0,
+            "Proteines": 5.6,
+            "Sel": 0.64
+        },
+        "ingredients": [
+            "GALETTE de quinoa \u00e0 la Proven\u00e7ale 61,8% [contient GLUTEN]",
+            "tomates pel\u00e9es 26%",
+            "oignons 8,7%",
+            "basilic, huile d'olive, ail"
+        ],
+        "allergenes": [
+            "Gluten"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "GALETTE LENTILLES CORAIL \u00c0 L'INDIENNE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.0,
+            "Sucres simples": 1.6,
+            "Kj": 736.0,
+            "Kcal": 176.0,
+            "Lipides": 7.3,
+            "Glucides": 9.9,
+            "Fibres": 3.9,
+            "Proteines": 16.0,
+            "Sel": 0.5
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "GALETTE ORGE CH\u00c8VRE MIEL": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.7,
+            "Sucres simples": 3.4,
+            "Kj": 920.0,
+            "Kcal": 220.0,
+            "Lipides": 10.0,
+            "Glucides": 24.0,
+            "Fibres": 6.3,
+            "Proteines": 5.4,
+            "Sel": 1.0
+        },
+        "ingredients": [
+            "Dont BOULGOUR d'ORGE pr\u00e9cuit 41,8%, BOULGOUR de BLE complet pr\u00e9cuit 29,2%, FROMAGE de ch\u00e8vre 5,9%, miel 2,5%"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "GALETTE SARRASIN LENTILLES POIREAUX": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.8,
+            "Sucres simples": 1.5,
+            "Kj": 974.0,
+            "Kcal": 233.0,
+            "Lipides": 10.4,
+            "Glucides": 22.0,
+            "Fibres": 3.5,
+            "Proteines": 11.0,
+            "Sel": 1.1
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "C\u00e9leri",
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "GALETTE TOFU EMMENTAL": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 3.7,
+            "Sucres simples": 0.5,
+            "Kj": 961.0,
+            "Kcal": 230.0,
+            "Lipides": 16.0,
+            "Glucides": 2.3,
+            "Fibres": 4.4,
+            "Proteines": 17.0,
+            "Sel": 1.1
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait",
+            "Soja"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "GNOCCHIS \u00c0 LA FORESTI\u00c8RE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 7.5,
+            "Sucres simples": 14.4,
+            "Kj": 1662.0,
+            "Kcal": 396.0,
+            "Lipides": 12.9,
+            "Glucides": 57.6,
+            "Fibres": 5.4,
+            "Proteines": 11.1,
+            "Sel": 2.0
+        },
+        "ingredients": [
+            "GNOCCHI 51,1%",
+            "CREME fraiche 18% MG 20,4% (LAIT origine France)",
+            "m\u00e9lange forestier de champignons 14,3% (bolets jaunes, lentins de ch\u00eane, c\u00e8pes, pleurotes)",
+            "oignons 11,9%",
+            "PARMESAN r\u00e2p\u00e9 AOP 1,7%",
+            "huile de tournesol/olive, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "GNOCCHIS \u00c0 LA PROVEN\u00c7ALE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 8.4,
+            "Sucres simples": 13.8,
+            "Kj": 1755.0,
+            "Kcal": 420.0,
+            "Lipides": 17.1,
+            "Glucides": 53.7,
+            "Fibres": 5.4,
+            "Proteines": 12.6,
+            "Sel": 2.0
+        },
+        "ingredients": [
+            "GNOCCHI 48,3%",
+            "brunoise proven\u00e7ale 22,5% (courgettes, poivrons, tomates, aubergines pr\u00e9frites, oignons rissol\u00e9s)",
+            "tomates pel\u00e9es concass\u00e9es 9%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 6,4% (LAIT origine France)",
+            "oignons 5,6%",
+            "concentr\u00e9 de tomate 3,2%",
+            "BEURRE 3,2%",
+            "huile de tournesol/olive, ail, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "LASAGNES SAUCE BOLOGNAISE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 13.5,
+            "Sucres simples": 13.5,
+            "Kj": 2493.0,
+            "Kcal": 599.0,
+            "Lipides": 27.9,
+            "Glucides": 49.5,
+            "Fibres": 4.5,
+            "Proteines": 35.6,
+            "Sel": 2.0
+        },
+        "ingredients": [
+            "SAUCE BECHAMEL 29%",
+            "LASAGNES cuites 24,2%",
+            "viande de boeuf hach\u00e9 19,7% (origine France)",
+            "tomates pel\u00e9es concass\u00e9es 13,6%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 7,7% (LAIT origine France)",
+            "oignons 3,4%",
+            "concentr\u00e9 de tomate, ail, sel, muscade, herbes de provence, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "LASAGNES \u00c9PINARDS CHAMPIGNONS MOZZARELLA": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 7.0,
+            "Sucres simples": 4.2,
+            "Kj": 1421.0,
+            "Kcal": 340.0,
+            "Lipides": 15.1,
+            "Glucides": 32.9,
+            "Fibres": 6.7,
+            "Proteines": 16.1,
+            "Sel": 1.4
+        },
+        "ingredients": [
+            "LASAGNES cuites 38,1%",
+            "\u00e9pinards en branche 19,8%",
+            "tomates pel\u00e9es concass\u00e9es 15,8%",
+            "champignons 9,9%",
+            "CREME fraiche 18% MG 5,6% (LAIT origine France)",
+            "MOZZARELLA 5,6% (LAIT origine France)",
+            "EMMENTAL r\u00e2p\u00e9 BIO 2,8% (LAIT origine France)",
+            "huile de tournesol/olive, ail, basilic, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "LASAGNES \u00c9PINARDS F\u00c9TA": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 11.2,
+            "Sucres simples": 2.8,
+            "Kj": 1757.0,
+            "Kcal": 420.0,
+            "Lipides": 17.5,
+            "Glucides": 38.5,
+            "Fibres": 7.7,
+            "Proteines": 21.4,
+            "Sel": 2.1
+        },
+        "ingredients": [
+            "LASAGNES cuites 47,7%",
+            "\u00e9pinards en branches 29,7%",
+            "d\u00e8s de FROMAGE de brebis 8,5% (LAIT origine France)",
+            "CREME fraiche 18% MG 8,5% (LAIT origine France)",
+            "MOZZARELLA 5,3% (LAIT origine France)",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "NEMS DE CREVETTES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.8,
+            "Sucres simples": 4.2,
+            "Kj": 909.0,
+            "Kcal": 218.0,
+            "Lipides": 6.8,
+            "Glucides": 25.5,
+            "Fibres": 4.5,
+            "Proteines": 12.0,
+            "Sel": 1.7
+        },
+        "ingredients": [
+            "dont CREVETTES 20,9%, vermicelles de SOJA r\u00e9hydrat\u00e9s 13,9%, SURIMI 6,9%, oignons 6,9%, carottes 6,9%, germes de SOJA 6,2%, farine de riz 5,8%"
+        ],
+        "allergenes": [
+            "Crustac\u00e9",
+            "Gluten",
+            "Poisson",
+            "Soja"
+        ],
+        "vegetarien": false,
+        "halal": true
+    },
+    "NEMS DE VOLAILLE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.1,
+            "Sucres simples": 3.0,
+            "Kj": 1104.0,
+            "Kcal": 264.0,
+            "Lipides": 12.6,
+            "Glucides": 22.5,
+            "Fibres": 4.5,
+            "Proteines": 13.7,
+            "Sel": 2.1
+        },
+        "ingredients": [
+            "NEMS de volaille 100% (farce 66% [dont poulet 17%], galette de riz 34%)"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Soja"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "NUGGETS DE POULET": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 4.2,
+            "Sucres simples": 1.1,
+            "Kj": 1279.0,
+            "Kcal": 306.0,
+            "Lipides": 18.0,
+            "Glucides": 20.4,
+            "Fibres": 0.0,
+            "Proteines": 14.4,
+            "Sel": 1.4
+        },
+        "ingredients": [
+            "NUGGETS de poulet 100% (dont viande de poulet trait\u00e9e en salaison 65% - origine UE)"
+        ],
+        "allergenes": [
+            "C\u00e9leri",
+            "Gluten",
+            "Soja"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "OMELETTE AU FROMAGE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 10.3,
+            "Sucres simples": 0.6,
+            "Kj": 1681.0,
+            "Kcal": 402.0,
+            "Lipides": 32.8,
+            "Glucides": 0.6,
+            "Fibres": 0.0,
+            "Proteines": 27.3,
+            "Sel": 1.6
+        },
+        "ingredients": [
+            "OEUFS entiers 82,1%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 12,8% (LAIT origine France)",
+            "huile de tournesol/olive 4,6%",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "OMELETTE AUX FINES HERBES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 5.4,
+            "Sucres simples": 0.5,
+            "Kj": 1285.0,
+            "Kcal": 308.0,
+            "Lipides": 24.5,
+            "Glucides": 0.7,
+            "Fibres": 0.2,
+            "Proteines": 19.3,
+            "Sel": 1.5
+        },
+        "ingredients": [
+            "OEUFS 91,5%",
+            "huile de tournesol/olive 5,1%",
+            "persil 1,4%",
+            "ciboulette 1,4%",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "OMELETTE AUX POMMES DE TERRE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 5.6,
+            "Sucres simples": 0.7,
+            "Kj": 1550.0,
+            "Kcal": 370.0,
+            "Lipides": 25.8,
+            "Glucides": 12.0,
+            "Fibres": 1.1,
+            "Proteines": 20.4,
+            "Sel": 1.5
+        },
+        "ingredients": [
+            "OEUFS entiers 72,8%",
+            "pommes de terre rissol\u00e9es 27,8%",
+            "huile de tournesol/olive 4,1%",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PAN\u00c9 DE BL\u00c9 FROMAGE \u00c9PINARDS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.7,
+            "Sucres simples": 1.0,
+            "Kj": 1016.0,
+            "Kcal": 243.0,
+            "Lipides": 13.0,
+            "Glucides": 16.0,
+            "Fibres": 3.2,
+            "Proteines": 15.0,
+            "Sel": 0.77
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PARMENTIER DE L\u00c9GUMES \u00c9GREN\u00c9 DE POIS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.4,
+            "Sucres simples": 8.0,
+            "Kj": 1548.0,
+            "Kcal": 372.0,
+            "Lipides": 18.8,
+            "Glucides": 32.0,
+            "Fibres": 9.6,
+            "Proteines": 14.8,
+            "Sel": 2.4
+        },
+        "ingredients": [
+            "Pur\u00e9e de pommes de terre reconstitu\u00e9e 47,6%",
+            "\u00e9gren\u00e9 de pois BIO 21%",
+            "tomates pel\u00e9es concass\u00e9es 11%",
+            "brunoise de l\u00e9gumes 10,9% (carottes, courgettes, CELERI rave, navet)",
+            "oignons 4,3%",
+            "huile de tournesol/olive, CHAPELURE, ail, cumin, sel, poivre"
+        ],
+        "allergenes": [
+            "C\u00e9leri",
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PAUPIETTE DE VEAU PERSILL\u00c9E": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 7.0,
+            "Sucres simples": 0.8,
+            "Kj": 937.0,
+            "Kcal": 225.0,
+            "Lipides": 14.3,
+            "Glucides": 2.3,
+            "Fibres": 0.3,
+            "Proteines": 20.8,
+            "Sel": 1.6
+        },
+        "ingredients": [
+            "Paupiette de veau 93,8% (viande de veau 50% - origine UE, viande de boeuf 26% - origine UE ou Royaume Uni, viande de dinde - origine UE)",
+            "persil 2%",
+            "ail, VIN blanc, sel, poivre"
+        ],
+        "allergenes": [
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "PILON DE POULET TEX MEX": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 3.2,
+            "Sucres simples": 1.7,
+            "Kj": 915.0,
+            "Kcal": 219.0,
+            "Lipides": 9.5,
+            "Glucides": 2.0,
+            "Fibres": 1.1,
+            "Proteines": 31.1,
+            "Sel": 2.0
+        },
+        "ingredients": [
+            "Pilons de poulet marin\u00e9s tex mex 100% (dont poulet 86,2% - origine UE, marinade tex mex 13,8%)"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "POISSON PAN\u00c9": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.7,
+            "Sucres simples": 1.3,
+            "Kj": 870.0,
+            "Kcal": 208.0,
+            "Lipides": 6.2,
+            "Glucides": 16.9,
+            "Fibres": 3.5,
+            "Proteines": 19.5,
+            "Sel": 0.9
+        },
+        "ingredients": [
+            "dont POISSON blanc 73% - Transform\u00e9 en France"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Poisson"
+        ],
+        "vegetarien": false,
+        "halal": true
+    },
+    "RISOTTO AUX CHAMPIGNONS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 4.6,
+            "Sucres simples": 2.6,
+            "Kj": 1769.0,
+            "Kcal": 422.0,
+            "Lipides": 7.6,
+            "Glucides": 75.9,
+            "Fibres": 3.3,
+            "Proteines": 9.9,
+            "Sel": 1.1
+        },
+        "ingredients": [
+            "Riz cuit de Camargue pour risotto 75,2%",
+            "CREME fraiche 18% MG 6% (LAIT origine France)",
+            "oignons 5,3%",
+            "champignons de Paris 5,3%",
+            "m\u00e9lange forestier de champignons 5,3% (bolets jaunes, lentins de ch\u00eane, c\u00e8pes, pleurotes)",
+            "PARMESAN r\u00e2p\u00e9 AOP 1,5% (LAIT origine Italie)",
+            "BEURRE, VIN blanc, bouillon de l\u00e9gumes, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": false
+    },
+    "R\u00d4TI DE PORC \u00c0 L'ORANGE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 3.3,
+            "Sucres simples": 2.3,
+            "Kj": 1057.0,
+            "Kcal": 254.0,
+            "Lipides": 14.6,
+            "Glucides": 4.1,
+            "Fibres": 1.0,
+            "Proteines": 25.4,
+            "Sel": 1.7
+        },
+        "ingredients": [
+            "R\u00f4ti de porc 69,5% (origine France)",
+            "orange 10,2%",
+            "oignons 8,9%",
+            "fond brun li\u00e9 5,9%",
+            "huile de tournesol/olive, sel, laurier, poivre"
+        ],
+        "allergenes": [
+            "C\u00e9leri",
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "SAUCISSE DE TOULOUSE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 13.0,
+            "Sucres simples": 0.0,
+            "Kj": 1528.0,
+            "Kcal": 365.0,
+            "Lipides": 32.5,
+            "Glucides": 1.3,
+            "Fibres": 0.0,
+            "Proteines": 16.9,
+            "Sel": 2.0
+        },
+        "ingredients": [
+            "Saucisse de Toulouse 100% (dont viande de porc 92% - origine France)"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "SAUCISSE FUM\u00c9E OIGNONS MOUTARDE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 12.3,
+            "Sucres simples": 2.6,
+            "Kj": 1535.0,
+            "Kcal": 368.0,
+            "Lipides": 30.0,
+            "Glucides": 5.7,
+            "Fibres": 1.4,
+            "Proteines": 15.0,
+            "Sel": 2.7
+        },
+        "ingredients": [
+            "Saucisse fum\u00e9e cuite 69,9% (viande de porc 89% - origine France)",
+            "oignons 23%",
+            "MOUTARDE \u00e0 l'ancienne 3,3%",
+            "jus de veau li\u00e9, VIN blanc"
+        ],
+        "allergenes": [
+            "Moutarde",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "SAUT\u00c9 DE B\u0152UF HONGROIS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 5.0,
+            "Sucres simples": 3.4,
+            "Kj": 1132.0,
+            "Kcal": 270.0,
+            "Lipides": 10.8,
+            "Glucides": 7.2,
+            "Fibres": 1.4,
+            "Proteines": 28.0,
+            "Sel": 0.86
+        },
+        "ingredients": [
+            "Saut\u00e9 de boeuf 66,3% (origine France)",
+            "tomates pel\u00e9es concass\u00e9es 12,1%",
+            "concentr\u00e9 de tomate 6,5%",
+            "fond brun li\u00e9 reconstitu\u00e9 4,3%",
+            "oignons 3,8%",
+            "BIERE 2,6%",
+            "FARINE, persil, ail, sel, herbes de Provence, paprika doux 0,03%, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "SAUT\u00c9 DE DINDE MADRAS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.3,
+            "Sucres simples": 2.7,
+            "Kj": 866.0,
+            "Kcal": 207.0,
+            "Lipides": 5.9,
+            "Glucides": 4.9,
+            "Fibres": 0.8,
+            "Proteines": 32.3,
+            "Sel": 1.6
+        },
+        "ingredients": [
+            "Eminc\u00e9 de blanquette de dinde 80,3% (origine France)",
+            "fond blanc de volaille reconstitu\u00e9 6,1%",
+            "ananas 5,3%",
+            "oignons 4,6%",
+            "huile de tournesol/olive, curry 1,1%, raisins secs 1,1%, sel, poivre"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "SAUT\u00c9 DE PORC COLOMBO": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 5.4,
+            "Sucres simples": 1.0,
+            "Kj": 1272.0,
+            "Kcal": 304.0,
+            "Lipides": 18.6,
+            "Glucides": 2.0,
+            "Fibres": 1.2,
+            "Proteines": 32.0,
+            "Sel": 0.84
+        },
+        "ingredients": [
+            "Eminc\u00e9 de porc 77,2% (origine France)",
+            "courgettes 8,8%",
+            "huile de tournesol/olive 4,5%",
+            "oignons 4,4%",
+            "jus de citron 2,5%",
+            "\u00e9pices pour colombo 1,1%, ail, persil, sel, poivre"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "STEAK HACH\u00c9 DE BOEUF": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 7.8,
+            "Sucres simples": 0.0,
+            "Kj": 1081.0,
+            "Kcal": 259.0,
+            "Lipides": 18.8,
+            "Glucides": 0.0,
+            "Fibres": 0.0,
+            "Proteines": 22.5,
+            "Sel": 0.28
+        },
+        "ingredients": [
+            "Steak h\u00e2ch\u00e9 frais 15% MG 100% pur boeuf (origine France)"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "TAJINE DE VOLAILLE AUX PRUNEAUX": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 3.4,
+            "Sucres simples": 2.2,
+            "Kj": 990.0,
+            "Kcal": 236.0,
+            "Lipides": 16.0,
+            "Glucides": 6.2,
+            "Fibres": 1.4,
+            "Proteines": 16.2,
+            "Sel": 1.5
+        },
+        "ingredients": [
+            "Haut de cuisse de poulet 38,7% (origine France)",
+            "pilon de poulet 32,2% (origine France)",
+            "courgettes 6,6%",
+            "l\u00e9gumes couscous 6,6% (carottes, navets, courgettes, CELERI, pois chiches, poivrons)",
+            "jus de veau et fond blanc de volaille reconstitu\u00e9s 5,8%",
+            "huile de tournesol/olive 3,4%",
+            "oignons 3,3%",
+            "pruneaux d\u00e9noyaut\u00e9s 1,9%",
+            "\u00e9pices raz el hanout 0,5%, coriandre, sel, cannelle, poivre"
+        ],
+        "allergenes": [
+            "C\u00e9leri"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "TARTE AU MAROILLES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 25.2,
+            "Sucres simples": 6.5,
+            "Kj": 2228.0,
+            "Kcal": 533.0,
+            "Lipides": 39.0,
+            "Glucides": 22.6,
+            "Fibres": 2.3,
+            "Proteines": 20.5,
+            "Sel": 2.4
+        },
+        "ingredients": [
+            "Oignons 19,9%",
+            "PATE FEUILLETEE pur BEURRE 19%",
+            "MAROILLES AOP 19% (LAIT origine France)",
+            "CREME fraiche 18% MG 15,2% (LAIT origine France)",
+            "OEUFS 11,4%",
+            "LAIT demi \u00e9cr\u00e9m\u00e9 BIO 11,4% (LAIT origine France)",
+            "EMMENTAL r\u00e2p\u00e9 BIO 3,8% (LAIT origine France)",
+            "sel, poivre, muscade"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "TARTE COURGE EMMENTAL": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 19.5,
+            "Sucres simples": 5.0,
+            "Kj": 1883.0,
+            "Kcal": 450.0,
+            "Lipides": 32.5,
+            "Glucides": 24.0,
+            "Fibres": 2.5,
+            "Proteines": 15.8,
+            "Sel": 1.6
+        },
+        "ingredients": [
+            "Pur\u00e9e de potiron 30,3%",
+            "PATE FEUILLETEE pur BEURRE 20,2%",
+            "OEUFS 16,1%",
+            "CREME fraiche 18% MG 8,1% (LAIT origine France)",
+            "LAIT demi \u00e9cr\u00e9m\u00e9 BIO 8,1% (LAIT origine France)",
+            "oignons 7,1%",
+            "MOZZARELLA 5% (LAIT origine France)",
+            "EMMENTAL r\u00e2p\u00e9 BIO 4% (LAIT origine France)",
+            "BEURRE, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "TARTE TOMATE CH\u00c8VRE MOZZARELLA": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 7.3,
+            "Sucres simples": 2.6,
+            "Kj": 1158.0,
+            "Kcal": 277.0,
+            "Lipides": 14.5,
+            "Glucides": 23.8,
+            "Fibres": 1.7,
+            "Proteines": 11.6,
+            "Sel": 1.4
+        },
+        "ingredients": [
+            "TARTE tomate CHEVRE 94,5%",
+            "MOZZARELLA 4,9% (LAIT origine France)",
+            "basilic"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "TARTIFLETTE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 18.5,
+            "Sucres simples": 12.2,
+            "Kj": 2664.0,
+            "Kcal": 639.0,
+            "Lipides": 32.9,
+            "Glucides": 58.5,
+            "Fibres": 4.5,
+            "Proteines": 21.2,
+            "Sel": 2.6
+        },
+        "ingredients": [
+            "Pommes de terre 46,1%",
+            "SAUCE BECHAMEL 31,5%",
+            "FROMAGE \u00e0 tartiflette 12,6% (LAIT origine France)",
+            "lardons fum\u00e9s 7,1% (poitrine de porc 88% - origine France)",
+            "oignons 1,8%",
+            "VIN blanc 0,8%"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "TOMATES FARCIES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 6.0,
+            "Sucres simples": 2.8,
+            "Kj": 886.0,
+            "Kcal": 212.0,
+            "Lipides": 14.0,
+            "Glucides": 6.0,
+            "Fibres": 3.4,
+            "Proteines": 14.0,
+            "Sel": 2.0
+        },
+        "ingredients": [
+            "Tomate \u00e9vid\u00e9e 67%",
+            "viande de boeuf 22,9% (origine UE)",
+            "viande de dinde 4,5% (origine UE)",
+            "\u00e9chalotes, oignons, chapelure de BLE, sel, huile d'olive, ail, persil, ar\u00f4me, poivre"
+        ],
+        "allergenes": [
+            "Gluten"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "TORTELLINI AUX FROMAGES SAUCE CR\u00c8ME": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 14.6,
+            "Sucres simples": 5.4,
+            "Kj": 2535.0,
+            "Kcal": 608.0,
+            "Lipides": 25.1,
+            "Glucides": 75.6,
+            "Fibres": 4.1,
+            "Proteines": 20.0,
+            "Sel": 3.0
+        },
+        "ingredients": [
+            "TORTELLINI 4 FROMAGES 73,8% (dont farce 28% vontient [RICOTTA 56%, CHAPELURE, flocons de pommes de terre s\u00e9ch\u00e9es, PECORINO 5%, GRANA PADANO 5%, FROMAGE \u00e0 p\u00e2te dure 5%])",
+            "CREME fraiche 18% MG 22,2% (LAIT origine France)",
+            "FARINE, BEURRE, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "TORTELLINI AUX FROMAGES SAUCE FORESTI\u00c8RE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 10.5,
+            "Sucres simples": 7.0,
+            "Kj": 2297.0,
+            "Kcal": 550.0,
+            "Lipides": 19.9,
+            "Glucides": 70.2,
+            "Fibres": 6.2,
+            "Proteines": 21.1,
+            "Sel": 3.2
+        },
+        "ingredients": [
+            "TORTELLINI 4 FROMAGES 51,1% (dont farce 28% vontient [RICOTTA 56%, CHAPELURE, flocons de pommes de terre s\u00e9ch\u00e9es, PECORINO 5%, GRANA PADANO 5%, FROMAGE \u00e0 p\u00e2te dure 5%])",
+            "champignons de Paris 17,9%",
+            "CREME fraiche 18% MG 15,3% (LAIT origine France)",
+            "m\u00e9lange de champignons forestiers 8,9% (bolets jaunes, lentins de ch\u00eane, c\u00e8pes, pleurotes)",
+            "oignons 4,5%",
+            "FARINE, bouillon de l\u00e9gumes, huile d'olive/tournesol, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "TORTELLINI AUX FROMAGES SAUCE PESTO": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 9.3,
+            "Sucres simples": 3.0,
+            "Kj": 2870.0,
+            "Kcal": 688.0,
+            "Lipides": 35.0,
+            "Glucides": 70.0,
+            "Fibres": 4.8,
+            "Proteines": 22.5,
+            "Sel": 3.0
+        },
+        "ingredients": [
+            "TORTELLINI 4 FROMAGES 81,6% (dont farce 28% vontient [RICOTTA 56%, CHAPELURE, flocons de pommes de terre s\u00e9ch\u00e9es, PECORINO 5%, GRANA PADANO 5%, FROMAGE \u00e0 p\u00e2te dure 5%])",
+            "huile de tournesol/olive 7,3%",
+            "PARMESAN r\u00e2p\u00e9 AOP 4,1% (LAIT origine Italie)",
+            "basilic 4,1%",
+            "PIGNONS de PIN 1,6%",
+            "ail, VINAIGRE balsamique, sel, poivre"
+        ],
+        "allergenes": [
+            "Fruit \u00e0 coque",
+            "Gluten",
+            "Lait",
+            "Oeuf",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "VOL AU VENT FRUITS DE MER": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 9.2,
+            "Sucres simples": 7.4,
+            "Kj": 1451.0,
+            "Kcal": 347.0,
+            "Lipides": 17.8,
+            "Glucides": 30.6,
+            "Fibres": 1.4,
+            "Proteines": 15.7,
+            "Sel": 2.3
+        },
+        "ingredients": [
+            "M\u00e9lange de FRUITS de MER 33,2% (MOULES d\u00e9coquill\u00e9es cuites 55% - \u00e9lev\u00e9es au Chili, ENCORNET cuit 30% - p\u00each\u00e9 en oc\u00e9an Pacifique Sud Est, CREVETTES d\u00e9cortiqu\u00e9es blanchies 15% - p\u00each\u00e9es en oc\u00e9an Indien)",
+            "SAUCE BECHAMEL 22,2%",
+            "BOUCHEE FEUILLETEE 21%",
+            "oignons 9,7%",
+            "CREME fraiche 18% MG 2,8% (LAIT origine France)",
+            "FUMET de CRUSTACES 2,1%",
+            "sel, poivre, muscade"
+        ],
+        "allergenes": [
+            "C\u00e9leri",
+            "Crustac\u00e9",
+            "Gluten",
+            "Lait",
+            "Mollusque",
+            "Oeuf",
+            "Poisson"
+        ],
+        "vegetarien": false,
+        "halal": true
+    },
+    "WINGS DE POULET": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 5.3,
+            "Sucres simples": 1.0,
+            "Kj": 1206.0,
+            "Kcal": 289.0,
+            "Lipides": 19.5,
+            "Glucides": 1.7,
+            "Fibres": 1.0,
+            "Proteines": 26.0,
+            "Sel": 1.8
+        },
+        "ingredients": [
+            "Wings de poulet marin\u00e9 tex mex 100% (dont ailerons de poulet 88% - origine UE)"
+        ],
+        "allergenes": [
+            "Soja"
+        ],
+        "vegetarien": false,
+        "halal": false
+    }
+}

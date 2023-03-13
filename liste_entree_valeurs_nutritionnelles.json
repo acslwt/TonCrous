@@ -1,0 +1,1268 @@
+{
+    "BETTERAVE ROUGE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.4,
+            "Sucres simples": 6.8,
+            "Kj": 278.0,
+            "Kcal": 67.0,
+            "Lipides": 3.0,
+            "Glucides": 7.5,
+            "Fibres": 1.8,
+            "Proteines": 1.6,
+            "Sel": 0.11
+        },
+        "ingredients": [
+            "Betteraves rouges 91,2%",
+            "\u00e9chalote 3,4%",
+            "huile de tournesol/olive 3,1%",
+            "ciboulette 2,3%"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "BETTERAVES ROUGES MA\u00cfS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.4,
+            "Sucres simples": 4.8,
+            "Kj": 244.0,
+            "Kcal": 58.0,
+            "Lipides": 2.7,
+            "Glucides": 6.4,
+            "Fibres": 1.7,
+            "Proteines": 1.5,
+            "Sel": 0.13
+        },
+        "ingredients": [
+            "Betteraves 68,4%",
+            "ma\u00efs 22,8 %",
+            "\u00e9chalotes 3,4%",
+            "huile de tournesol/olive 3,1%",
+            "ciboulette 2,3%"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "BOULGOUR AUX HERBES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.6,
+            "Sucres simples": 1.3,
+            "Kj": 567.0,
+            "Kcal": 136.0,
+            "Lipides": 5.0,
+            "Glucides": 17.5,
+            "Fibres": 3.1,
+            "Proteines": 3.6,
+            "Sel": 0.03
+        },
+        "ingredients": [
+            "BOULGOUR cuit 51%",
+            "tomate 17%",
+            "poivrons 12,7%",
+            "concombre 6,8%",
+            "huile de tournesol/olive 3,8%",
+            "ciboulette 2,1%",
+            "persil 2,1%",
+            "\u00e9chalote 2,1%",
+            "menthe 1,7%",
+            "jus de citron"
+        ],
+        "allergenes": [
+            "Gluten"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "CAROTTES R\u00c2P\u00c9ES ASSAISONN\u00c9ES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.2,
+            "Sucres simples": 4.8,
+            "Kj": 198.0,
+            "Kcal": 47.0,
+            "Lipides": 2.3,
+            "Glucides": 4.9,
+            "Fibres": 2.3,
+            "Proteines": 0.6,
+            "Sel": 0.6
+        },
+        "ingredients": [
+            "Carottes r\u00e2p\u00e9es assaisonn\u00e9es (dont carottes 76,7%)."
+        ],
+        "allergenes": [
+            "Moutarde"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "CHAMPIGNONS FRAIS CIBOULETTE MAYONNAISE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.3,
+            "Sucres simples": 0.7,
+            "Kj": 193.0,
+            "Kcal": 46.0,
+            "Lipides": 3.8,
+            "Glucides": 0.8,
+            "Fibres": 0.5,
+            "Proteines": 1.4,
+            "Sel": 0.13
+        },
+        "ingredients": [
+            "Champignons \u00e9minc\u00e9s 87,7%",
+            "MAYONNAISE 8,8%",
+            "ciboulette 2,6%",
+            "jus de citron"
+        ],
+        "allergenes": [
+            "Moutarde",
+            "Oeuf",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "CHAMPIGNONS \u00c0 LA GRECQUE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.1,
+            "Sucres simples": 1.2,
+            "Kj": 103.0,
+            "Kcal": 25.0,
+            "Lipides": 0.2,
+            "Glucides": 2.2,
+            "Fibres": 2.5,
+            "Proteines": 2.2,
+            "Sel": 0.02
+        },
+        "ingredients": [
+            "Champignons de Paris 82,2%",
+            "oignons blancs 12,3%",
+            "VIN BLANC 1,6%",
+            "concentr\u00e9 de tomates 1,6%",
+            "ail, coriandre, jus de citron, herves de Provence"
+        ],
+        "allergenes": [
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": false
+    },
+    "COLESLAW": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.6,
+            "Sucres simples": 4.0,
+            "Kj": 371.0,
+            "Kcal": 89.0,
+            "Lipides": 7.2,
+            "Glucides": 4.1,
+            "Fibres": 2.1,
+            "Proteines": 0.8,
+            "Sel": 0.74
+        },
+        "ingredients": [
+            "Coleslaw 100% (dont chou 39%, carottes 32%)"
+        ],
+        "allergenes": [
+            "Moutarde",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "CR\u00caPE CHAMPIGNONS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.4,
+            "Sucres simples": 3.3,
+            "Kj": 452.0,
+            "Kcal": 107.0,
+            "Lipides": 2.7,
+            "Glucides": 16.0,
+            "Fibres": 1.7,
+            "Proteines": 3.9,
+            "Sel": 0.72
+        },
+        "ingredients": [
+            "CREPE garnie d'un fourrage \u00e0 base de champignons"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "CR\u00caPE EMMENTAL": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.8,
+            "Sucres simples": 3.8,
+            "Kj": 494.0,
+            "Kcal": 118.0,
+            "Lipides": 3.7,
+            "Glucides": 16.0,
+            "Fibres": 1.5,
+            "Proteines": 4.3,
+            "Sel": 0.84
+        },
+        "ingredients": [
+            "CREPE garnie d'un fourrage \u00e0 base d'EMMENTAL"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "CR\u00caPE JAMBON FROMAGE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.1,
+            "Sucres simples": 4.0,
+            "Kj": 556.0,
+            "Kcal": 133.0,
+            "Lipides": 5.8,
+            "Glucides": 15.0,
+            "Fibres": 1.5,
+            "Proteines": 4.4,
+            "Sel": 0.9
+        },
+        "ingredients": [
+            "CREPE garnie d'un fourrage \u00e0 base de jambon cuit standard (origine UE) et d'EMMENTAL"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "C\u00c9LERI R\u00c9MOULADE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.7,
+            "Sucres simples": 3.3,
+            "Kj": 904.0,
+            "Kcal": 217.0,
+            "Lipides": 20.9,
+            "Glucides": 4.1,
+            "Fibres": 3.0,
+            "Proteines": 1.5,
+            "Sel": 0.61
+        },
+        "ingredients": [
+            "CELERI r\u00e2p\u00e9 71,4%",
+            "MAYONNAISE 26,8%",
+            "ciboulette 1,8%"
+        ],
+        "allergenes": [
+            "C\u00e9leri",
+            "Moutarde",
+            "Oeuf",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "ENDIVE EMMENTAL CRO\u00dbTONS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.0,
+            "Sucres simples": 1.8,
+            "Kj": 348.0,
+            "Kcal": 83.0,
+            "Lipides": 3.8,
+            "Glucides": 7.5,
+            "Fibres": 1.0,
+            "Proteines": 4.4,
+            "Sel": 0.19
+        },
+        "ingredients": [
+            "Endive 75%",
+            "d\u00e8s d'EMMENTAL 12,5% (LAIT origine France)",
+            "CROUTONS 10%",
+            "persil"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "FEUILLET\u00c9 DUBARRY": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 6.4,
+            "Sucres simples": 2.1,
+            "Kj": 755.0,
+            "Kcal": 181.0,
+            "Lipides": 10.5,
+            "Glucides": 17.5,
+            "Fibres": 0.7,
+            "Proteines": 3.4,
+            "Sel": 0.67
+        },
+        "ingredients": [
+            "PATE FEUILLETEE 55% garnie d'une pr\u00e9paration \u00e0 base de chou fleur 12,8% et de SAUCE BECHAMEL"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "FEUILLET\u00c9 AU FROMAGE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 5.3,
+            "Sucres simples": 0.8,
+            "Kj": 819.0,
+            "Kcal": 196.0,
+            "Lipides": 11.9,
+            "Glucides": 16.1,
+            "Fibres": 0.5,
+            "Proteines": 6.2,
+            "Sel": 0.7
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "FEUILLET\u00c9 HOT DOG": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 6.6,
+            "Sucres simples": 1.8,
+            "Kj": 796.0,
+            "Kcal": 190.0,
+            "Lipides": 11.2,
+            "Glucides": 16.8,
+            "Fibres": 1.3,
+            "Proteines": 4.8,
+            "Sel": 0.84
+        },
+        "ingredients": [
+            "FEUILLETE avec une garniture \u00e0 base de saucisse de volaille (origine UE) 26,5% et de sauce ketchup 5,4%"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Moutarde"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "JAMBON BLANC": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.8,
+            "Sucres simples": 0.3,
+            "Kj": 255.0,
+            "Kcal": 61.0,
+            "Lipides": 2.1,
+            "Glucides": 0.3,
+            "Fibres": 0.3,
+            "Proteines": 10.2,
+            "Sel": 1.2
+        },
+        "ingredients": [
+            "Jambon blanc 78,1% (porc origine France)",
+            "cornichons 21,9%"
+        ],
+        "allergenes": [
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "JAMBON DE DINDE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.2,
+            "Sucres simples": 0.4,
+            "Kj": 176.0,
+            "Kcal": 42.0,
+            "Lipides": 0.6,
+            "Glucides": 0.5,
+            "Fibres": 0.3,
+            "Proteines": 8.6,
+            "Sel": 1.0
+        },
+        "ingredients": [
+            "Jambon de dinde 74,1% (dont filet de dinde 86,5% - origine France)",
+            "cornichons 25,9%"
+        ],
+        "allergenes": [
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "LENTILLES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.3,
+            "Sucres simples": 1.0,
+            "Kj": 396.0,
+            "Kcal": 95.0,
+            "Lipides": 2.4,
+            "Glucides": 11.4,
+            "Fibres": 3.7,
+            "Proteines": 5.3,
+            "Sel": 0.81
+        },
+        "ingredients": [
+            "Lentilles 84,4%",
+            "\u00e9chalote 10,5%",
+            "ail, huile d'olive, persil"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "LENTILLES PETITS POIS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.2,
+            "Sucres simples": 1.3,
+            "Kj": 234.0,
+            "Kcal": 56.0,
+            "Lipides": 1.7,
+            "Glucides": 5.9,
+            "Fibres": 2.5,
+            "Proteines": 3.0,
+            "Sel": 0.35
+        },
+        "ingredients": [
+            "Lentilles 54,2%",
+            "petits pois 33,9%",
+            "\u00e9chalote 6,8%",
+            "huile de tournesol/olive, VINAIGRE, persil"
+        ],
+        "allergenes": [
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "MAC\u00c9DOINE MAYONNAISE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.2,
+            "Sucres simples": 2.8,
+            "Kj": 772.0,
+            "Kcal": 185.0,
+            "Lipides": 14.5,
+            "Glucides": 7.6,
+            "Fibres": 4.5,
+            "Proteines": 3.4,
+            "Sel": 0.35
+        },
+        "ingredients": [
+            "Mac\u00e9doine de l\u00e9gumes 82,6% (pois doux, haricots verts, flageolets verts, carottes, navets)",
+            "MAYONNAISE 16,5%",
+            "persil"
+        ],
+        "allergenes": [
+            "Moutarde",
+            "Oeuf",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "OEUF DUR MAYONNAISE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.0,
+            "Sucres simples": 0.5,
+            "Kj": 737.0,
+            "Kcal": 176.0,
+            "Lipides": 15.8,
+            "Glucides": 0.6,
+            "Fibres": 0.0,
+            "Proteines": 8.3,
+            "Sel": 0.4
+        },
+        "ingredients": [
+            "OEUF dur 71,5%",
+            "MAYONNAISE 18,5%"
+        ],
+        "allergenes": [
+            "Moutarde",
+            "Oeuf",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PIZZA FROMAGE MOZZA": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.5,
+            "Sucres simples": 2.8,
+            "Kj": 937.0,
+            "Kcal": 224.0,
+            "Lipides": 6.2,
+            "Glucides": 33.3,
+            "Fibres": 2.1,
+            "Proteines": 7.5,
+            "Sel": 0.87
+        },
+        "ingredients": [
+            "PIZZA FROMAGE tomate 89,5%",
+            "MOZZARELLA 10,5% (LAIT origine France)"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POIS CHICHES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.4,
+            "Sucres simples": 1.0,
+            "Kj": 576.0,
+            "Kcal": 138.0,
+            "Lipides": 4.4,
+            "Glucides": 15.3,
+            "Fibres": 5.6,
+            "Proteines": 6.7,
+            "Sel": 0.53
+        },
+        "ingredients": [
+            "Pois chiches 87,8%",
+            "oignons 8,8%",
+            "huile de tournesol/olive, persil, ail, cumin"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POIS CHICHES MA\u00cfS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.6,
+            "Sucres simples": 2.0,
+            "Kj": 545.0,
+            "Kcal": 130.0,
+            "Lipides": 4.3,
+            "Glucides": 14.4,
+            "Fibres": 5.2,
+            "Proteines": 5.7,
+            "Sel": 0.51
+        },
+        "ingredients": [
+            "Pois chiches 66,5%",
+            "ma\u00efs 22,2%",
+            "oignons 8,9%",
+            "huile de tournesol/olive, persil"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POMMES DE TERRE AU THON": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.8,
+            "Sucres simples": 1.0,
+            "Kj": 658.0,
+            "Kcal": 157.0,
+            "Lipides": 8.6,
+            "Glucides": 15.0,
+            "Fibres": 1.9,
+            "Proteines": 4.1,
+            "Sel": 0.39
+        },
+        "ingredients": [
+            "Pommes de terre 73,7%",
+            "THON 9,2%",
+            "MAYONNAISE 9,2%",
+            "olives noires 4,6%",
+            "\u00e9chalote, ciboulette"
+        ],
+        "allergenes": [
+            "Moutarde",
+            "Oeuf",
+            "Poisson",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": true
+    },
+    "POMMES DE TERRE BALTIQUE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.9,
+            "Sucres simples": 0.9,
+            "Kj": 471.0,
+            "Kcal": 112.0,
+            "Lipides": 3.3,
+            "Glucides": 14.3,
+            "Fibres": 1.8,
+            "Proteines": 5.1,
+            "Sel": 0.77
+        },
+        "ingredients": [
+            "Pommes de terre 72,1%",
+            "HARENGS FUMES 18% (p\u00each\u00e9s en Atlantique Nord-Est)",
+            "oignons blancs 4,5%",
+            "VINAIGRE 4,5%",
+            "persil"
+        ],
+        "allergenes": [
+            "Poisson",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": true
+    },
+    "POMMES DE TERRE FROMAGE BLANC": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.3,
+            "Sucres simples": 1.3,
+            "Kj": 372.0,
+            "Kcal": 89.0,
+            "Lipides": 1.3,
+            "Glucides": 15.3,
+            "Fibres": 2.1,
+            "Proteines": 2.8,
+            "Sel": 0.33
+        },
+        "ingredients": [
+            "Pommes de terre 74,4%",
+            "FROMAGE BLANC 3,1% MG 9,3% (LAIT origine France)",
+            "cornichons 9,3%",
+            "oignons rouges 4,7%",
+            "MOUTARDE \u00e0 l'ancienne 1,9%",
+            "ciboulette"
+        ],
+        "allergenes": [
+            "Lait",
+            "Moutarde",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POMMES DE TERRE PI\u00c9MONTAISE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.9,
+            "Sucres simples": 1.0,
+            "Kj": 598.0,
+            "Kcal": 143.0,
+            "Lipides": 8.2,
+            "Glucides": 13.1,
+            "Fibres": 1.8,
+            "Proteines": 3.3,
+            "Sel": 0.5
+        },
+        "ingredients": [
+            "Pommes de terre 70,1%",
+            "d\u00e8s de jambon 9,3% (dont viande de porc 81% - origine UE)",
+            "MAYONNAISE 9,3%",
+            "cornichons 4,7%",
+            "olives noires 4,7%",
+            "\u00e9chalote"
+        ],
+        "allergenes": [
+            "Moutarde",
+            "Oeuf",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "POMMES DE TERRE TARTARE DE L\u00c9GUMES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.2,
+            "Sucres simples": 1.0,
+            "Kj": 322.0,
+            "Kcal": 77.0,
+            "Lipides": 1.5,
+            "Glucides": 13.1,
+            "Fibres": 1.9,
+            "Proteines": 1.6,
+            "Sel": 0.19
+        },
+        "ingredients": [
+            "Pommes de terre 76,1%",
+            "tartare de l\u00e9gumes m\u00e9diterran\u00e9ens 21,7%",
+            "basilic 2,2%"
+        ],
+        "allergenes": [
+            "Moutarde"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POMMES DE TERRE \u00c0 L'ALSACIENNE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 3.5,
+            "Sucres simples": 0.9,
+            "Kj": 822.0,
+            "Kcal": 197.0,
+            "Lipides": 14.5,
+            "Glucides": 10.8,
+            "Fibres": 1.2,
+            "Proteines": 5.0,
+            "Sel": 0.8
+        },
+        "ingredients": [
+            "Pommes de terre 58%",
+            "saucisse de Strasbourg 31,4% (viande de porc 75% - origine France, viande de boeuf 1% - origine UE)",
+            "MAYONNAISE 9,7%",
+            "ciboulette"
+        ],
+        "allergenes": [
+            "Moutarde",
+            "Oeuf",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "POMMES DE TERRE \u00c0 LA PROVEN\u00c7ALE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.9,
+            "Sucres simples": 1.9,
+            "Kj": 460.0,
+            "Kcal": 110.0,
+            "Lipides": 6.9,
+            "Glucides": 10.5,
+            "Fibres": 2.0,
+            "Proteines": 1.5,
+            "Sel": 0.09
+        },
+        "ingredients": [
+            "Pommes de terre 45,2%",
+            "brunoise de l\u00e9gumes 45%,2 (courgettes, poivrons, tomates, aubergines pr\u00e9frites, oignons rissol\u00e9s)",
+            "olives noires 4,5%",
+            "hulie de tournesol/olive 4,1%",
+            "basilic"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POTAGE ST GERMAIN": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.6,
+            "Sucres simples": 4.4,
+            "Kj": 884.0,
+            "Kcal": 212.0,
+            "Lipides": 5.0,
+            "Glucides": 25.8,
+            "Fibres": 7.8,
+            "Proteines": 11.8,
+            "Sel": 0.86
+        },
+        "ingredients": [
+            "Pois cass\u00e9s 24,9%, poireaux 6,2%, oignons 6,2%, carottes 6,2%, CREME fraiche 18% MG (LAIT origine France), BEURRE, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POTAGE AU CHOU": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.4,
+            "Sucres simples": 1.2,
+            "Kj": 270.0,
+            "Kcal": 64.0,
+            "Lipides": 2.2,
+            "Glucides": 8.2,
+            "Fibres": 2.6,
+            "Proteines": 1.6,
+            "Sel": 1.1
+        },
+        "ingredients": [
+            "Chou blanc 27,3%, carottes 11,4%, pommes de terre 11,4%, oignons, BEURRE, bouillon de l\u00e9gumes, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POTAGE AUVERGNAT": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.0,
+            "Sucres simples": 3.6,
+            "Kj": 276.0,
+            "Kcal": 66.0,
+            "Lipides": 2.0,
+            "Glucides": 9.0,
+            "Fibres": 3.0,
+            "Proteines": 1.6,
+            "Sel": 2.2
+        },
+        "ingredients": [
+            "Oignons, carottes, poireaux, CELERI branche, flocons de pomme de terre, BEURRE, bouillon de l\u00e9gumes, sel, poivre"
+        ],
+        "allergenes": [
+            "C\u00e9leri",
+            "Lait",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POTAGE CAROTTES CORIANDRE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.8,
+            "Sucres simples": 4.4,
+            "Kj": 268.0,
+            "Kcal": 64.0,
+            "Lipides": 1.8,
+            "Glucides": 8.8,
+            "Fibres": 3.6,
+            "Proteines": 1.4,
+            "Sel": 1.7
+        },
+        "ingredients": [
+            "Carottes 29,7%, oignons, flocons de pomme de terre, BEURRE, bouillon de l\u00e9gumes, coriandre 0,3%, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POTAGE COURGETTE BASILIC": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.2,
+            "Sucres simples": 2.6,
+            "Kj": 188.0,
+            "Kcal": 44.0,
+            "Lipides": 1.0,
+            "Glucides": 6.4,
+            "Fibres": 2.2,
+            "Proteines": 1.6,
+            "Sel": 1.3
+        },
+        "ingredients": [
+            "Courgettes 36%, oignons, flocons de pomme de terre, huile de tournesol/olive, basilic 0,5%, bouillon de l\u00e9gumes, sel, poivre"
+        ],
+        "allergenes": [
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POTAGE CR\u00c9CY": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.2,
+            "Sucres simples": 4.6,
+            "Kj": 276.0,
+            "Kcal": 66.0,
+            "Lipides": 2.4,
+            "Glucides": 8.0,
+            "Fibres": 3.4,
+            "Proteines": 1.4,
+            "Sel": 1.4
+        },
+        "ingredients": [
+            "Carottes 35,2%, oignons 11,7%, flocons de pomme de terre, CREME fraiche 18% MG (LAIT origine France), BEURRE, bouillon de l\u00e9gumes, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POTAGE DE L\u00c9GUMES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.0,
+            "Sucres simples": 2.8,
+            "Kj": 334.0,
+            "Kcal": 80.0,
+            "Lipides": 4.6,
+            "Glucides": 7.2,
+            "Fibres": 2.0,
+            "Proteines": 1.4,
+            "Sel": 1.7
+        },
+        "ingredients": [
+            "Brunoise de l\u00e9gumes 33,9% (carottes, courgettes, CELERI RAVE, navets), flocons de pomme de terre, CREME fraiche 18% MG (LAIT origine France), huile de tournesol/olive, bouillon de l\u00e9gumes, sel, poivre"
+        ],
+        "allergenes": [
+            "C\u00e9leri",
+            "Lait",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POTAGE DU CULTIVATEUR": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.6,
+            "Sucres simples": 3.6,
+            "Kj": 218.0,
+            "Kcal": 52.0,
+            "Lipides": 1.4,
+            "Glucides": 7.0,
+            "Fibres": 3.0,
+            "Proteines": 1.4,
+            "Sel": 1.4
+        },
+        "ingredients": [
+            "Carottes 12%, poireaux 12%, navets 12%, oignons 12%, flocons de pomme de terre, BEURRE, bouillon de l\u00e9gumes, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POTAGE MAROCAIN": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.6,
+            "Sucres simples": 4.2,
+            "Kj": 360.0,
+            "Kcal": 86.0,
+            "Lipides": 3.6,
+            "Glucides": 10.0,
+            "Fibres": 3.2,
+            "Proteines": 2.0,
+            "Sel": 1.8
+        },
+        "ingredients": [
+            "L\u00e9gumes couscous 29,4% (carottes, navetsn courgettes, CELERI branche, pois chiches, poivrons rouge et vert), oignons 14,7%, flocons de pomme de terre, huile de tournesol/olive, bouillon de l\u00e9gumes, coriandre 0,3%, raz el hanout 0,1%, sel, poivre"
+        ],
+        "allergenes": [
+            "C\u00e9leri",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POTAGE POTIRON": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.4,
+            "Sucres simples": 3.4,
+            "Kj": 292.0,
+            "Kcal": 70.0,
+            "Lipides": 2.6,
+            "Glucides": 8.4,
+            "Fibres": 2.4,
+            "Proteines": 1.8,
+            "Sel": 1.5
+        },
+        "ingredients": [
+            "Pur\u00e9e de potiron 28,1%, oignons, CREME fraiche 18% MG (LAIT origine France), flocons de pommes de terre, BEURRE, bouillon de l\u00e9gumes, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POTAGE TOMATE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.2,
+            "Sucres simples": 6.2,
+            "Kj": 226.0,
+            "Kcal": 54.0,
+            "Lipides": 2.2,
+            "Glucides": 7.2,
+            "Fibres": 2.0,
+            "Proteines": 1.2,
+            "Sel": 1.5
+        },
+        "ingredients": [
+            "Tomates pel\u00e9es concass\u00e9es 40,2%, concentr\u00e9 de tomate 4,4%, oignons, sucre, huile de tournesol/olive, ail, bouillon de l\u00e9gumes, sel, poivre"
+        ],
+        "allergenes": [
+            "C\u00e9leri",
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "P\u00c2TES AU SURIMI": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.7,
+            "Sucres simples": 1.3,
+            "Kj": 765.0,
+            "Kcal": 183.0,
+            "Lipides": 8.3,
+            "Glucides": 22.0,
+            "Fibres": 1.5,
+            "Proteines": 4.5,
+            "Sel": 0.47
+        },
+        "ingredients": [
+            "PATES cuites 67,9%",
+            "SURIMI 18,1% (transform\u00e9 en France)",
+            "MAYONNAISE 9%",
+            "tomate cerise 4,5%",
+            "aneth"
+        ],
+        "allergenes": [
+            "Crustac\u00e9",
+            "Gluten",
+            "Moutarde",
+            "Oeuf",
+            "Poisson",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": true
+    },
+    "P\u00c2TES \u00c0 LA SICILIENNE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.3,
+            "Sucres simples": 1.5,
+            "Kj": 458.0,
+            "Kcal": 110.0,
+            "Lipides": 1.3,
+            "Glucides": 19.8,
+            "Fibres": 2.1,
+            "Proteines": 3.4,
+            "Sel": 0.54
+        },
+        "ingredients": [
+            "PATES cuites 57,7%",
+            "poivrons 19,2%",
+            "tomate 15,4%",
+            "olives vertes 3,8%",
+            "c\u00e2pres 3,8%"
+        ],
+        "allergenes": [
+            "Gluten"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "P\u00c2T\u00c9 DE CAMPAGNE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 5.0,
+            "Sucres simples": 0.6,
+            "Kj": 632.0,
+            "Kcal": 151.0,
+            "Lipides": 13.1,
+            "Glucides": 1.6,
+            "Fibres": 0.3,
+            "Proteines": 6.7,
+            "Sel": 1.2
+        },
+        "ingredients": [
+            "P\u00e2t\u00e9 de campagne 78,1% (dont viande de porc 45% - origine France)",
+            "cornichons 21,9%"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "P\u00c2T\u00c9 DE CAMPAGNE AU POIVRE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 5.0,
+            "Sucres simples": 0.8,
+            "Kj": 640.0,
+            "Kcal": 153.0,
+            "Lipides": 13.1,
+            "Glucides": 1.6,
+            "Fibres": 0.3,
+            "Proteines": 7.2,
+            "Sel": 1.2
+        },
+        "ingredients": [
+            "P\u00e2t\u00e9 de campagne 78,1% (dont viande de porc 45% - origine France, poivre 1,2%)",
+            "cornichons 21,9%"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "P\u00c2T\u00c9 FORESTIER": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 5.0,
+            "Sucres simples": 1.6,
+            "Kj": 612.0,
+            "Kcal": 147.0,
+            "Lipides": 12.5,
+            "Glucides": 2.6,
+            "Fibres": 0.3,
+            "Proteines": 5.7,
+            "Sel": 1.3
+        },
+        "ingredients": [
+            "P\u00e2t\u00e9 forestier 78,1% (porc - origine France, dont c\u00e8pes 3%)",
+            "cornichons 21,9%"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "RIZ MALAKA": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.3,
+            "Sucres simples": 3.1,
+            "Kj": 676.0,
+            "Kcal": 162.0,
+            "Lipides": 2.2,
+            "Glucides": 31.9,
+            "Fibres": 1.5,
+            "Proteines": 3.4,
+            "Sel": 0.09
+        },
+        "ingredients": [
+            "Riz blanc cuit de Camargue 85,4%",
+            "abricots secs 4,9%",
+            "olives noires 4,9%",
+            "AMANDES effil\u00e9es 2%",
+            "coraindre, ciboulette"
+        ],
+        "allergenes": [
+            "Fruit \u00e0 coque",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "SALADE MEXICAINE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.2,
+            "Sucres simples": 3.7,
+            "Kj": 337.0,
+            "Kcal": 81.0,
+            "Lipides": 0.8,
+            "Glucides": 11.0,
+            "Fibres": 4.8,
+            "Proteines": 5.0,
+            "Sel": 0.28
+        },
+        "ingredients": [
+            "Haricots rouges 48,7%",
+            "poivrons 30,5%",
+            "ma\u00efs 18,3%",
+            "\u00e9chalote, piment doux"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "SAUCISSON \u00c0 L'AIL FUM\u00c9": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 3.2,
+            "Sucres simples": 0.2,
+            "Kj": 428.0,
+            "Kcal": 102.0,
+            "Lipides": 8.0,
+            "Glucides": 0.3,
+            "Fibres": 0.3,
+            "Proteines": 6.3,
+            "Sel": 1.2
+        },
+        "ingredients": [
+            "Saucisson \u00e0 l'ail fum\u00e9 74,1% (dont viande de porc 92% - origine France, ail 0,3%)",
+            "cornichons 25,9%"
+        ],
+        "allergenes": [
+            "C\u00e9leri",
+            "Lait",
+            "Oeuf",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "TABOUL\u00c9": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.4,
+            "Sucres simples": 3.0,
+            "Kj": 583.0,
+            "Kcal": 140.0,
+            "Lipides": 4.1,
+            "Glucides": 20.7,
+            "Fibres": 1.8,
+            "Proteines": 4.0,
+            "Sel": 0.72
+        },
+        "ingredients": [
+            "TABOULE 100% (dont semoule de BLE dur r\u00e9hydrat\u00e9e 64%, l\u00e9gumes 21%)"
+        ],
+        "allergenes": [
+            "Gluten"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "TARTE 3 FROMAGES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 5.8,
+            "Sucres simples": 1.7,
+            "Kj": 782.0,
+            "Kcal": 187.0,
+            "Lipides": 12.0,
+            "Glucides": 13.6,
+            "Fibres": 0.8,
+            "Proteines": 7.0,
+            "Sel": 0.8
+        },
+        "ingredients": [
+            "TARTE 3 FROMAGES (FROMAGE blanc, EMMENTAL, MOZZARELLA)"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "TARTE POIREAUX": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 4.8,
+            "Sucres simples": 1.4,
+            "Kj": 606.0,
+            "Kcal": 145.0,
+            "Lipides": 7.4,
+            "Glucides": 16.0,
+            "Fibres": 1.1,
+            "Proteines": 3.4,
+            "Sel": 0.72
+        },
+        "ingredients": [
+            "Dont poireaux 25%"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    }
+}

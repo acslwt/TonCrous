@@ -1,0 +1,692 @@
+{
+    "BANANE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.0,
+            "Sucres simples": 23.4,
+            "Kj": 575.0,
+            "Kcal": 137.0,
+            "Lipides": 0.2,
+            "Glucides": 29.6,
+            "Fibres": 4.1,
+            "Proteines": 1.7,
+            "Sel": 0.02
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Aucun"
+        ]
+    },
+    "CL\u00c9MENTINE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.0,
+            "Sucres simples": 8.6,
+            "Kj": 200.0,
+            "Kcal": 47.0,
+            "Lipides": 0.1,
+            "Glucides": 9.2,
+            "Fibres": 1.7,
+            "Proteines": 0.8,
+            "Sel": 0.01
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Aucun"
+        ]
+    },
+    "COMPOTE POMME": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.0,
+            "Sucres simples": 14.0,
+            "Kj": 266.0,
+            "Kcal": 63.0,
+            "Lipides": 0.2,
+            "Glucides": 14.0,
+            "Fibres": 2.0,
+            "Proteines": 0.3,
+            "Sel": 0.0
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Aucun"
+        ]
+    },
+    "COMPOTE POMME ABRICOT": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.0,
+            "Sucres simples": 14.0,
+            "Kj": 267.0,
+            "Kcal": 63.0,
+            "Lipides": 0.2,
+            "Glucides": 14.0,
+            "Fibres": 1.8,
+            "Proteines": 0.4,
+            "Sel": 0.0
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Aucun"
+        ]
+    },
+    "COMPOTE POMME ANANAS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.0,
+            "Sucres simples": 15.0,
+            "Kj": 275.0,
+            "Kcal": 65.0,
+            "Lipides": 0.2,
+            "Glucides": 15.0,
+            "Fibres": 1.4,
+            "Proteines": 0.1,
+            "Sel": 0.0
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Aucun"
+        ]
+    },
+    "COMPOTE POMME BANANE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.0,
+            "Sucres simples": 14.0,
+            "Kj": 271.0,
+            "Kcal": 64.0,
+            "Lipides": 0.2,
+            "Glucides": 14.0,
+            "Fibres": 2.1,
+            "Proteines": 0.5,
+            "Sel": 0.0
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Aucun"
+        ]
+    },
+    "COMPOTE POMME CASSIS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.0,
+            "Sucres simples": 13.0,
+            "Kj": 251.0,
+            "Kcal": 59.0,
+            "Lipides": 0.1,
+            "Glucides": 13.0,
+            "Fibres": 2.4,
+            "Proteines": 0.4,
+            "Sel": 0.0
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Aucun"
+        ]
+    },
+    "COMPOTE POMME FRAISE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.0,
+            "Sucres simples": 15.0,
+            "Kj": 278.0,
+            "Kcal": 66.0,
+            "Lipides": 0.2,
+            "Glucides": 15.0,
+            "Fibres": 1.3,
+            "Proteines": 0.3,
+            "Sel": 0.0
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Aucun"
+        ]
+    },
+    "COMPOTE POMME POIRE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.0,
+            "Sucres simples": 14.0,
+            "Kj": 268.0,
+            "Kcal": 63.0,
+            "Lipides": 0.2,
+            "Glucides": 14.0,
+            "Fibres": 2.2,
+            "Proteines": 0.3,
+            "Sel": 0.0
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Aucun"
+        ]
+    },
+    "COMPOTE POMME P\u00caCHE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.0,
+            "Sucres simples": 14.0,
+            "Kj": 267.0,
+            "Kcal": 63.0,
+            "Lipides": 0.2,
+            "Glucides": 14.0,
+            "Fibres": 1.9,
+            "Proteines": 0.4,
+            "Sel": 0.0
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Aucun"
+        ]
+    },
+    "COUPELLE DE FRUITS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.1,
+            "Sucres simples": 13.2,
+            "Kj": 250.0,
+            "Kcal": 59.0,
+            "Lipides": 0.4,
+            "Glucides": 13.5,
+            "Fibres": 0.0,
+            "Proteines": 0.4,
+            "Sel": 0.01
+        },
+        "ingredients": [
+            "M\u00e9lange de fruits (pomme, p\u00eache, cerise) au sirop l\u00e9ger ar\u00f4matis\u00e9"
+        ],
+        "allergenes": [
+            "Aucun"
+        ]
+    },
+    "CR\u00c8ME DESSERT CARAMEL": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.0,
+            "Sucres simples": 20.1,
+            "Kj": 129.0,
+            "Kcal": 119.0,
+            "Lipides": 1.6,
+            "Glucides": 24.0,
+            "Fibres": 2.0,
+            "Proteines": 0.0,
+            "Sel": 0.25
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "CR\u00c8ME DESSERT CHOCOLAT": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.5,
+            "Sucres simples": 21.3,
+            "Kj": 574.0,
+            "Kcal": 136.0,
+            "Lipides": 2.5,
+            "Glucides": 25.0,
+            "Fibres": 2.8,
+            "Proteines": 0.0,
+            "Sel": 0.13
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait",
+            "Soja"
+        ]
+    },
+    "CR\u00c8ME DESSERT PRALIN\u00c9": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.5,
+            "Sucres simples": 18.8,
+            "Kj": 490.0,
+            "Kcal": 116.0,
+            "Lipides": 2.4,
+            "Glucides": 21.3,
+            "Fibres": 0.0,
+            "Proteines": 2.4,
+            "Sel": 0.23
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "CR\u00c8ME DESSERT VANILLE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.4,
+            "Sucres simples": 18.8,
+            "Kj": 558.0,
+            "Kcal": 133.0,
+            "Lipides": 3.6,
+            "Glucides": 22.5,
+            "Fibres": 0.0,
+            "Proteines": 2.4,
+            "Sel": 0.21
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "FLAN VANILLE CARAMEL": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.4,
+            "Sucres simples": 17.2,
+            "Kj": 388.0,
+            "Kcal": 91.0,
+            "Lipides": 0.7,
+            "Glucides": 18.9,
+            "Fibres": 0.0,
+            "Proteines": 2.4,
+            "Sel": 0.1
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "FROMAGE BLANC AUX FRUITS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.3,
+            "Sucres simples": 12.4,
+            "Kj": 408.0,
+            "Kcal": 97.0,
+            "Lipides": 2.0,
+            "Glucides": 13.0,
+            "Fibres": 0.0,
+            "Proteines": 6.6,
+            "Sel": 0.09
+        },
+        "ingredients": [
+            "dont pur\u00e9e de fruit 6% (fraise - abricot - p\u00eache - framboise)"
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "FROMAGE BLANC NATURE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.0,
+            "Sucres simples": 3.5,
+            "Kj": 312.0,
+            "Kcal": 74.0,
+            "Lipides": 3.1,
+            "Glucides": 3.9,
+            "Fibres": 0.0,
+            "Proteines": 7.7,
+            "Sel": 0.1
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "FROMAGE BLANC VANILLE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.6,
+            "Sucres simples": 11.5,
+            "Kj": 405.0,
+            "Kcal": 96.0,
+            "Lipides": 2.5,
+            "Glucides": 12.2,
+            "Fibres": 0.0,
+            "Proteines": 6.2,
+            "Sel": 0.09
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "GALETTE DES ROIS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 15.0,
+            "Sucres simples": 9.4,
+            "Kj": 1672.0,
+            "Kcal": 400.0,
+            "Lipides": 27.0,
+            "Glucides": 32.0,
+            "Fibres": 1.5,
+            "Proteines": 6.4,
+            "Sel": 0.63
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Fruit \u00e0 coque",
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ]
+    },
+    "G\u00c2TEAU DE SEMOULE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.5,
+            "Sucres simples": 20.0,
+            "Kj": 716.0,
+            "Kcal": 169.0,
+            "Lipides": 3.3,
+            "Glucides": 24.0,
+            "Fibres": 0.0,
+            "Proteines": 4.0,
+            "Sel": 0.11
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait",
+            "Oeuf"
+        ]
+    },
+    "LI\u00c9GEOIS VANILLE CARAMEL": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 4.7,
+            "Sucres simples": 22.8,
+            "Kj": 735.0,
+            "Kcal": 175.0,
+            "Lipides": 7.3,
+            "Glucides": 25.0,
+            "Fibres": 0.0,
+            "Proteines": 2.4,
+            "Sel": 0.12
+        },
+        "ingredients": [
+            "dont caramel 9,9%"
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "MOUSSE AU CAF\u00c9": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.5,
+            "Sucres simples": 10.2,
+            "Kj": 361.0,
+            "Kcal": 86.0,
+            "Lipides": 3.8,
+            "Glucides": 10.7,
+            "Fibres": 0.0,
+            "Proteines": 2.2,
+            "Sel": 0.12
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "MOUSSE AU CHOCOLAT AU LAIT": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.4,
+            "Sucres simples": 9.4,
+            "Kj": 314.0,
+            "Kcal": 75.0,
+            "Lipides": 2.8,
+            "Glucides": 9.9,
+            "Fibres": 0.0,
+            "Proteines": 2.1,
+            "Sel": 0.11
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "MOUSSE AU CHOCOLAT NOIR": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.1,
+            "Sucres simples": 10.9,
+            "Kj": 297.0,
+            "Kcal": 70.0,
+            "Lipides": 1.6,
+            "Glucides": 11.2,
+            "Fibres": 0.0,
+            "Proteines": 2.2,
+            "Sel": 0.14
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait",
+            "Soja"
+        ]
+    },
+    "ORANGE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.0,
+            "Sucres simples": 15.2,
+            "Kj": 384.0,
+            "Kcal": 92.0,
+            "Lipides": 0.2,
+            "Glucides": 16.0,
+            "Fibres": 5.4,
+            "Proteines": 1.6,
+            "Sel": 0.02
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Aucun"
+        ]
+    },
+    "POIRE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.0,
+            "Sucres simples": 14.1,
+            "Kj": 342.0,
+            "Kcal": 81.0,
+            "Lipides": 0.2,
+            "Glucides": 17.3,
+            "Fibres": 4.7,
+            "Proteines": 0.6,
+            "Sel": 0.02
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Aucun"
+        ]
+    },
+    "POMME": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.0,
+            "Sucres simples": 16.7,
+            "Kj": 345.0,
+            "Kcal": 83.0,
+            "Lipides": 0.2,
+            "Glucides": 17.9,
+            "Fibres": 2.9,
+            "Proteines": 0.8,
+            "Sel": 0.02
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Aucun"
+        ]
+    },
+    "RIZ AU LAIT": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.7,
+            "Sucres simples": 13.0,
+            "Kj": 565.0,
+            "Kcal": 134.0,
+            "Lipides": 2.7,
+            "Glucides": 24.0,
+            "Fibres": 0.0,
+            "Proteines": 3.3,
+            "Sel": 0.17
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "YAOURT AROMATIS\u00c9 ABRICOT": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.9,
+            "Sucres simples": 11.4,
+            "Kj": 367.0,
+            "Kcal": 87.0,
+            "Lipides": 3.0,
+            "Glucides": 11.6,
+            "Fibres": 0.0,
+            "Proteines": 3.4,
+            "Sel": 0.12
+        },
+        "ingredients": [
+            "Yaourt au LAIT entier sucr\u00e9 \u00e0 la pulpe de fruit (abricot 5%) et aromatis\u00e9"
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "YAOURT AROMATIS\u00c9 BANANE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.9,
+            "Sucres simples": 12.0,
+            "Kj": 377.0,
+            "Kcal": 90.0,
+            "Lipides": 3.0,
+            "Glucides": 12.2,
+            "Fibres": 0.0,
+            "Proteines": 3.4,
+            "Sel": 0.1
+        },
+        "ingredients": [
+            "Yaourt au LAIT entier sucr\u00e9 \u00e0 la pulpe de fruit (banane 5%) et aromatis\u00e9"
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "YAOURT AROMATIS\u00c9 FRAISE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.9,
+            "Sucres simples": 11.2,
+            "Kj": 367.0,
+            "Kcal": 87.0,
+            "Lipides": 3.0,
+            "Glucides": 11.5,
+            "Fibres": 0.0,
+            "Proteines": 3.4,
+            "Sel": 0.1
+        },
+        "ingredients": [
+            "Yaourt au LAIT entier sucr\u00e9 \u00e0 la pulpe de fruit (fraise 5%) et aromatis\u00e9"
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "YAOURT AROMATIS\u00c9 VANILLE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.5,
+            "Sucres simples": 14.1,
+            "Kj": 458.0,
+            "Kcal": 109.0,
+            "Lipides": 4.1,
+            "Glucides": 14.1,
+            "Fibres": 0.0,
+            "Proteines": 3.9,
+            "Sel": 0.14
+        },
+        "ingredients": [
+            "Yaourt  sucr\u00e9 au LAIT entier et \u00e0 la vanille de Madagascar (ar\u00f4me naturel de vanille 0,7%)"
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "YAOURT BRASS\u00c9 AUX FRUITS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.4,
+            "Sucres simples": 16.4,
+            "Kj": 489.0,
+            "Kcal": 116.0,
+            "Lipides": 3.4,
+            "Glucides": 17.0,
+            "Fibres": 0.0,
+            "Proteines": 4.4,
+            "Sel": 0.16
+        },
+        "ingredients": [
+            "dont fruit 5% (fraise, framboise, p\u00eache, abricot)"
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "YAOURT NATURE BRASS\u00c9 NON SUCR\u00c9": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 3.0,
+            "Sucres simples": 7.1,
+            "Kj": 375.0,
+            "Kcal": 90.0,
+            "Lipides": 4.4,
+            "Glucides": 7.1,
+            "Fibres": 0.0,
+            "Proteines": 5.4,
+            "Sel": 0.18
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    },
+    "YAOURT NATURE NON SUCR\u00c9": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.5,
+            "Sucres simples": 4.8,
+            "Kj": 243.0,
+            "Kcal": 58.0,
+            "Lipides": 2.1,
+            "Glucides": 4.8,
+            "Fibres": 0.0,
+            "Proteines": 4.9,
+            "Sel": 0.13
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Lait"
+        ]
+    }
+}

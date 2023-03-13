@@ -1,0 +1,695 @@
+{
+    "BLETTES GRATIN\u00c9ES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 4.0,
+            "Sucres simples": 2.0,
+            "Kj": 409.0,
+            "Kcal": 97.0,
+            "Lipides": 7.3,
+            "Glucides": 2.2,
+            "Fibres": 3.0,
+            "Proteines": 5.0,
+            "Sel": 1.0
+        },
+        "ingredients": [
+            "Blettes 62,8%",
+            "LAIT demi - \u00e9cr\u00e9m\u00e9 BIO 12% (LAIT origine France)",
+            "CREME fraiche 18% MG 12% (LAIT origine France)",
+            "EMMENTAL r\u00e2p\u00e9 BIO 6% (LAIT origine France)",
+            "OEUFS entiers 4,8%",
+            "jaunes d'OEUF 1,9%",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "BOULGOUR PILAF": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.4,
+            "Sucres simples": 1.0,
+            "Kj": 1238.0,
+            "Kcal": 296.0,
+            "Lipides": 5.4,
+            "Glucides": 49.2,
+            "Fibres": 7.4,
+            "Proteines": 9.2,
+            "Sel": 0.76
+        },
+        "ingredients": [
+            "BOULGOUR cuit 92,6%",
+            "oignons 4,9%",
+            "huile de tournesol/olive 2,1%",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "BROCOLIS SAUT\u00c9S": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.8,
+            "Sucres simples": 1.7,
+            "Kj": 276.0,
+            "Kcal": 66.0,
+            "Lipides": 4.8,
+            "Glucides": 1.7,
+            "Fibres": 2.3,
+            "Proteines": 3.0,
+            "Sel": 0.8
+        },
+        "ingredients": [
+            "Brocolis 95,9%",
+            "huile de tournesol/olive 3,4%",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "CAROTTES VICHY PERSILL\u00c9ES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.3,
+            "Sucres simples": 7.4,
+            "Kj": 348.0,
+            "Kcal": 84.0,
+            "Lipides": 4.2,
+            "Glucides": 8.1,
+            "Fibres": 4.8,
+            "Proteines": 0.9,
+            "Sel": 0.86
+        },
+        "ingredients": [
+            "Carottes 92,4%",
+            "BEURRE 3,7%",
+            "persil 1,8%",
+            "sucre, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "CHOU FLEUR AU GRATIN": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 4.5,
+            "Sucres simples": 8.2,
+            "Kj": 658.0,
+            "Kcal": 157.0,
+            "Lipides": 8.0,
+            "Glucides": 14.6,
+            "Fibres": 2.6,
+            "Proteines": 5.6,
+            "Sel": 1.3
+        },
+        "ingredients": [
+            "Chou fleur 48,6%",
+            "SAUCE BECHAMEL 37,1%",
+            "CREME fraiche 18% MG 9,3% (LAIT origine France)",
+            "EMMENTAL r\u00e2p\u00e9 BIO 4,6% (LAIT origine France)",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "CHOU FLEUR PERSILL\u00c9": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.1,
+            "Sucres simples": 2.4,
+            "Kj": 242.0,
+            "Kcal": 57.0,
+            "Lipides": 3.6,
+            "Glucides": 2.4,
+            "Fibres": 3.0,
+            "Proteines": 2.4,
+            "Sel": 0.66
+        },
+        "ingredients": [
+            "Chou fleur 94,5%",
+            "BEURRE 3,4%",
+            "persil 1,5%",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "COURGETTES AU GRATIN": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 4.5,
+            "Sucres simples": 8.0,
+            "Kj": 643.0,
+            "Kcal": 153.0,
+            "Lipides": 7.5,
+            "Glucides": 15.5,
+            "Fibres": 1.9,
+            "Proteines": 5.0,
+            "Sel": 1.3
+        },
+        "ingredients": [
+            "Courgettes 48,6%",
+            "SAUCE BECHAMEL 37,1%",
+            "CREME fraiche 18% MG 9,3% (LAIT origine France)",
+            "EMMENTAL r\u00e2p\u00e9 BIO 4,3% (LAIT origine France)",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "DUO DE CAROTTES JAUNES ORANGES PERSILL\u00c9ES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.3,
+            "Sucres simples": 4.5,
+            "Kj": 338.0,
+            "Kcal": 81.0,
+            "Lipides": 3.8,
+            "Glucides": 8.4,
+            "Fibres": 4.2,
+            "Proteines": 1.4,
+            "Sel": 0.72
+        },
+        "ingredients": [
+            "Duo de carottes jaunes et oranges 93,5%",
+            "BEURRE 3,7%",
+            "persil 2,2%",
+            "sel"
+        ],
+        "allergenes": [
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "DUO DE C\u00c9R\u00c9ALES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.4,
+            "Sucres simples": 2.0,
+            "Kj": 1086.0,
+            "Kcal": 260.0,
+            "Lipides": 4.8,
+            "Glucides": 42.8,
+            "Fibres": 6.8,
+            "Proteines": 8.0,
+            "Sel": 0.62
+        },
+        "ingredients": [
+            "BOULGOUR cuit 72,4%",
+            "oignons 13,5%",
+            "quinoa cuit 12,1%",
+            "huile de tournesol/olive, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "EPINARDS \u00c0 LA CR\u00c8ME": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.6,
+            "Sucres simples": 1.5,
+            "Kj": 339.0,
+            "Kcal": 81.0,
+            "Lipides": 4.7,
+            "Glucides": 1.8,
+            "Fibres": 4.8,
+            "Proteines": 5.7,
+            "Sel": 0.86
+        },
+        "ingredients": [
+            "Epinards en branche 81,5%",
+            "CREME fraiche 18% MG 17,5% (LAIT origine France)",
+            "ail, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "FLAGEOLETS \u00c0 LA TOMATE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.0,
+            "Sucres simples": 2.8,
+            "Kj": 1245.0,
+            "Kcal": 298.0,
+            "Lipides": 7.0,
+            "Glucides": 32.5,
+            "Fibres": 32.5,
+            "Proteines": 11.3,
+            "Sel": 1.1
+        },
+        "ingredients": [
+            "Flageolet 80,1%",
+            "tomates pel\u00e9es concass\u00e9es 12,5%",
+            "oignons 3,9%",
+            "huile de tournesol/olive, ail, sel, herbes de Provence, poivre"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "FONDUE DE POIREAUX": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.6,
+            "Sucres simples": 4.2,
+            "Kj": 320.0,
+            "Kcal": 77.0,
+            "Lipides": 4.1,
+            "Glucides": 6.0,
+            "Fibres": 4.2,
+            "Proteines": 2.0,
+            "Sel": 0.57
+        },
+        "ingredients": [
+            "Poireaux \u00e9minc\u00e9s 63,8%",
+            "oignons 21,3%",
+            "CREME fraiche 18% MG 12,2% (LAIT origine France)",
+            "BEURRE 2,5%",
+            "FARINE, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "FRITES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.5,
+            "Sucres simples": 1.3,
+            "Kj": 1495.0,
+            "Kcal": 358.0,
+            "Lipides": 12.5,
+            "Glucides": 52.5,
+            "Fibres": 7.5,
+            "Proteines": 6.3,
+            "Sel": 0.25
+        },
+        "ingredients": [
+            "Pommes de terre 95%, huile de tournesol 5%"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "HARICOTS PLATS PERSILL\u00c9S": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.5,
+            "Sucres simples": 2.0,
+            "Kj": 362.0,
+            "Kcal": 87.0,
+            "Lipides": 4.4,
+            "Glucides": 6.9,
+            "Fibres": 4.4,
+            "Proteines": 3.0,
+            "Sel": 0.77
+        },
+        "ingredients": [
+            "Haricots plats 91%",
+            "huile de tournesol/olive 3,9%",
+            "ail, persil 2,2%, sel, poivre"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "HARICOTS VERTS PERSILL\u00c9S": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.0,
+            "Sucres simples": 1.8,
+            "Kj": 333.0,
+            "Kcal": 80.0,
+            "Lipides": 3.2,
+            "Glucides": 7.8,
+            "Fibres": 4.8,
+            "Proteines": 2.9,
+            "Sel": 0.66
+        },
+        "ingredients": [
+            "Haricots verts 92,4%",
+            "BEURRE 3,3%",
+            "ail, persil 1,8%, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "LENTILLES AUVERGNATES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.3,
+            "Sucres simples": 1.8,
+            "Kj": 1218.0,
+            "Kcal": 293.0,
+            "Lipides": 2.5,
+            "Glucides": 35.0,
+            "Fibres": 19.5,
+            "Proteines": 22.5,
+            "Sel": 1.0
+        },
+        "ingredients": [
+            "Lentilles vertes du Berry cuites  90,2%",
+            "oignons 3,9%",
+            "carottes 3,9%",
+            "MOUTARDE, ail, huile de tournesol/olive, sel, poivre"
+        ],
+        "allergenes": [
+            "Moutarde",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "LENTILLES FERMI\u00c8RES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.3,
+            "Sucres simples": 2.8,
+            "Kj": 1048.0,
+            "Kcal": 250.0,
+            "Lipides": 2.3,
+            "Glucides": 30.0,
+            "Fibres": 16.8,
+            "Proteines": 19.0,
+            "Sel": 0.9
+        },
+        "ingredients": [
+            "Lentilles vertes du Berry cuites 78,8%",
+            "tomates pel\u00e9es concass\u00e9es 11%",
+            "oignons 3,4%",
+            "carottes 3,4%",
+            "CELERI 1,4%",
+            "concentr\u00e9 de tomate, ail, huile de tournesol/olive, sel, poivre"
+        ],
+        "allergenes": [
+            "C\u00e9leri"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "L\u00c9GUMES COUSCOUS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.2,
+            "Sucres simples": 6.0,
+            "Kj": 270.0,
+            "Kcal": 65.0,
+            "Lipides": 0.8,
+            "Glucides": 9.6,
+            "Fibres": 4.4,
+            "Proteines": 2.7,
+            "Sel": 0.72
+        },
+        "ingredients": [
+            "L\u00e9gumes couscous 77,6% (carottes, navets, courgettes, CELERI branche, pois chiches, poivrons)",
+            "oignons 9,7%",
+            "concentr\u00e9 de tomate 5,5%",
+            "harissa 1,1%",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "C\u00e9leri"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POLENTA": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.8,
+            "Sucres simples": 19.6,
+            "Kj": 450.0,
+            "Kcal": 108.0,
+            "Lipides": 1.8,
+            "Glucides": 22.0,
+            "Fibres": 2.8,
+            "Proteines": 0.6,
+            "Sel": 1.2
+        },
+        "ingredients": [
+            "Polenta cuite 95,5%",
+            "CREME fraiche 18% MG 3,8% (LAIT origine France)",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POMMES DE TERRE AU FOUR": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 1.0,
+            "Sucres simples": 1.8,
+            "Kj": 1268.0,
+            "Kcal": 303.0,
+            "Lipides": 11.8,
+            "Glucides": 42.5,
+            "Fibres": 4.8,
+            "Proteines": 4.8,
+            "Sel": 0.93
+        },
+        "ingredients": [
+            "Pommes de terre 94,6%",
+            "huile de tournesol/olive 3,9%",
+            "persil, sel, herbes de Provence, poivre"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POMMES DE TERRE BOULANG\u00c8RE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.3,
+            "Sucres simples": 4.8,
+            "Kj": 843.0,
+            "Kcal": 203.0,
+            "Lipides": 1.8,
+            "Glucides": 40.0,
+            "Fibres": 5.5,
+            "Proteines": 4.8,
+            "Sel": 1.3
+        },
+        "ingredients": [
+            "Pommes de terre 76,8%",
+            "oignons 20,2%",
+            "CHAPELURE brune, bouillon de l\u00e9gumes, laurier, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "POMMES DE TERRE VAPEUR": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.5,
+            "Sucres simples": 1.8,
+            "Kj": 945.0,
+            "Kcal": 225.0,
+            "Lipides": 2.3,
+            "Glucides": 45.0,
+            "Fibres": 5.0,
+            "Proteines": 5.0,
+            "Sel": 0.85
+        },
+        "ingredients": [
+            "Pommes de terre 99,3%",
+            "persil, sel, poivre"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PO\u00caL\u00c9E HARICOTS SALSIFIS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.0,
+            "Sucres simples": 2.6,
+            "Kj": 354.0,
+            "Kcal": 84.0,
+            "Lipides": 3.3,
+            "Glucides": 8.9,
+            "Fibres": 4.5,
+            "Proteines": 3.0,
+            "Sel": 0.6
+        },
+        "ingredients": [
+            "Haricots verts 59%",
+            "haricots beurre 23,6%",
+            "salsifis 11,8%",
+            "BEURRE 3,4%",
+            "ail, persil, sel, poivre"
+        ],
+        "allergenes": [
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PUR\u00c9E CUISIN\u00c9E DE BROCOLIS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.8,
+            "Sucres simples": 2.8,
+            "Kj": 386.0,
+            "Kcal": 92.0,
+            "Lipides": 2.0,
+            "Glucides": 13.4,
+            "Fibres": 4.0,
+            "Proteines": 3.2,
+            "Sel": 0.52
+        },
+        "ingredients": [
+            "Pur\u00e9e de pommes de terre reconstitu\u00e9e 54,4%",
+            "pur\u00e9e de brocolis 43,9%",
+            "CREME fraiche 18% MG 1,8% (LAIT origine France)"
+        ],
+        "allergenes": [
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PUR\u00c9E CUISIN\u00c9E DE CAROTTE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.8,
+            "Sucres simples": 4.8,
+            "Kj": 404.0,
+            "Kcal": 96.0,
+            "Lipides": 1.8,
+            "Glucides": 15.4,
+            "Fibres": 4.6,
+            "Proteines": 2.4,
+            "Sel": 0.56
+        },
+        "ingredients": [
+            "Pur\u00e9e de pommes de terre reconstitu\u00e9e 54,4%",
+            "pur\u00e9e de carotte 43,9%",
+            "CREME fraiche 18% MG 1,8% (LAIT origine France)"
+        ],
+        "allergenes": [
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PUR\u00c9E DE POMMES DE TERRE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.5,
+            "Sucres simples": 2.5,
+            "Kj": 613.0,
+            "Kcal": 148.0,
+            "Lipides": 2.3,
+            "Glucides": 26.3,
+            "Fibres": 3.5,
+            "Proteines": 3.8,
+            "Sel": 1.1
+        },
+        "ingredients": [
+            ""
+        ],
+        "allergenes": [
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "P\u00c2TES AU BEURRE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 2.4,
+            "Sucres simples": 1.2,
+            "Kj": 1152.0,
+            "Kcal": 276.0,
+            "Lipides": 4.2,
+            "Glucides": 48.0,
+            "Fibres": 3.8,
+            "Proteines": 7.8,
+            "Sel": 0.64
+        },
+        "ingredients": [
+            "PATES cuites 97,7%",
+            "BEURRE 2%",
+            "sel"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "RIZ DE CAMARGUE PILAF": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.2,
+            "Sucres simples": 1.2,
+            "Kj": 1132.0,
+            "Kcal": 270.0,
+            "Lipides": 1.2,
+            "Glucides": 58.0,
+            "Fibres": 2.0,
+            "Proteines": 5.4,
+            "Sel": 0.6
+        },
+        "ingredients": [
+            "Riz de Camargue cuit 92,9%",
+            "oignons 6,5%",
+            "huile de tournesol/olive, sel"
+        ],
+        "allergenes": [
+            "Aucun"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "SEMOULE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 0.6,
+            "Sucres simples": 0.2,
+            "Kj": 1572.0,
+            "Kcal": 376.0,
+            "Lipides": 8.2,
+            "Glucides": 63.8,
+            "Fibres": 3.0,
+            "Proteines": 10.0,
+            "Sel": 0.68
+        },
+        "ingredients": [
+            "SEMOULE cuite 96,2%",
+            "huile de tournesol/olive 3,5%",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten"
+        ],
+        "vegetarien": true,
+        "halal": true
+    }
+}

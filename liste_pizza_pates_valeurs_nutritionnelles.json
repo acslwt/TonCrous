@@ -1,0 +1,1033 @@
+{
+    "CAPPELLETTI SAUMON AU BASILIC": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 13.8,
+            "Sucres simples": 3.3,
+            "Kj": 2952.0,
+            "Kcal": 705.0,
+            "Lipides": 29.7,
+            "Glucides": 81.6,
+            "Fibres": 3.3,
+            "Proteines": 23.7,
+            "Sel": 5.7
+        },
+        "ingredients": [
+            "CAPPELLETTI farcis AU SAUMON fum\u00e9 75,3%",
+            "CREME fraiche 18% MG 11,3% (LAIT origine France)",
+            "BEURRE 3,8%",
+            "FARINE 3,8%",
+            "huile de tournesol/olive 1,7%",
+            "fumet de POISSON 1,5%",
+            "basilic 0,9%, \u00e9chalote, vin blanc, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf",
+            "Poisson",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "LASAGNES SAUCE BOLOGNAISE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 13.5,
+            "Sucres simples": 13.5,
+            "Kj": 2493.0,
+            "Kcal": 599.0,
+            "Lipides": 27.9,
+            "Glucides": 49.5,
+            "Fibres": 4.5,
+            "Proteines": 35.6,
+            "Sel": 2.0
+        },
+        "ingredients": [
+            "SAUCE BECHAMEL 29%",
+            "LASAGNES cuites 24,2%",
+            "viande de boeuf hach\u00e9 19,7% (origine France)",
+            "tomates pel\u00e9es concass\u00e9es 13,6%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 7,7% (LAIT origine France)",
+            "oignons 3,4%",
+            "concentr\u00e9 de tomate, ail, sel, muscade, herbes de provence, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "LASAGNES \u00c9PINARDS CHAMPIGNONS MOZZARELLA": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 7.0,
+            "Sucres simples": 4.2,
+            "Kj": 1421.0,
+            "Kcal": 340.0,
+            "Lipides": 15.1,
+            "Glucides": 32.9,
+            "Fibres": 6.7,
+            "Proteines": 16.1,
+            "Sel": 1.4
+        },
+        "ingredients": [
+            "LASAGNES cuites 38,1%",
+            "\u00e9pinards en branche 19,8%",
+            "tomates pel\u00e9es concass\u00e9es 15,8%",
+            "champignons 9,9%",
+            "CREME fraiche 18% MG 5,6% (LAIT origine France)",
+            "MOZZARELLA 5,6% (LAIT origine France)",
+            "EMMENTAL r\u00e2p\u00e9 BIO 2,8% (LAIT origine France)",
+            "huile de tournesol/olive, ail, basilic, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "LASAGNES \u00c9PINARDS F\u00c9TA": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 11.2,
+            "Sucres simples": 2.8,
+            "Kj": 1757.0,
+            "Kcal": 420.0,
+            "Lipides": 17.5,
+            "Glucides": 38.5,
+            "Fibres": 7.7,
+            "Proteines": 21.4,
+            "Sel": 2.1
+        },
+        "ingredients": [
+            "LASAGNES cuites 47,7%",
+            "\u00e9pinards en branches 29,7%",
+            "d\u00e8s de FROMAGE de brebis 8,5% (LAIT origine France)",
+            "CREME fraiche 18% MG 8,5% (LAIT origine France)",
+            "MOZZARELLA 5,3% (LAIT origine France)",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "MAC & CHEESE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 13.6,
+            "Sucres simples": 6.4,
+            "Kj": 2476.0,
+            "Kcal": 592.0,
+            "Lipides": 22.8,
+            "Glucides": 68.0,
+            "Fibres": 4.8,
+            "Proteines": 26.4,
+            "Sel": 1.9
+        },
+        "ingredients": [
+            "PATES cuites 79%",
+            "sauce BECHAMEL 13,8% [contient LAIT BIO (origine France), BEURRE, FARINE]",
+            "CHEDDAR r\u00e2p\u00e9 3,8% (LAIT origine UE)",
+            "EMMENTAL r\u00e2p\u00e9 BIO 2,5% (LAIT origine France)",
+            "MOUTARDE, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Moutarde"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PIZZA 3 FROMAGES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 30.4,
+            "Sucres simples": 5.6,
+            "Kj": 4124.0,
+            "Kcal": 988.0,
+            "Lipides": 56.0,
+            "Glucides": 72.0,
+            "Fibres": 5.2,
+            "Proteines": 48.0,
+            "Sel": 5.2
+        },
+        "ingredients": [
+            "PATE A PIZZA 39,3%",
+            "d\u00e8s de FOURME D'AMBERT AOP 18,4% (LAIT origine France)",
+            "MOZZARELLA 14,7% (LAIT origine France)",
+            "tomates concass\u00e9es 12,3%",
+            "sauce tomate 6,1%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 4,9% (LAIT origine France)",
+            "olives noires 2,9%",
+            "ail, basilic, origan"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PIZZA BASQUAISE POULET": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 15.6,
+            "Sucres simples": 6.4,
+            "Kj": 3220.0,
+            "Kcal": 772.0,
+            "Lipides": 36.4,
+            "Glucides": 68.0,
+            "Fibres": 5.2,
+            "Proteines": 44.0,
+            "Sel": 4.4
+        },
+        "ingredients": [
+            "PATE A PIZZA 35,4%",
+            "\u00e9minc\u00e9 de cuisse de poulet 15,5% (origine France)",
+            "MOZZARELLA 13,3% (LAIT origine France)",
+            "tomates concass\u00e9es 11%",
+            "poivrons 11%",
+            "sauce pizza 5,5%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 4,4% (LAIT origine France)",
+            "olives noires 2,7%",
+            "ail, basilic, origan"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "PIZZA BLANCHE 3 FROMAGES": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 32.4,
+            "Sucres simples": 6.2,
+            "Kj": 4255.0,
+            "Kcal": 1018.0,
+            "Lipides": 58.5,
+            "Glucides": 70.2,
+            "Fibres": 3.1,
+            "Proteines": 54.6,
+            "Sel": 5.1
+        },
+        "ingredients": [
+            "PATE A PIZZA 41%",
+            "FROMAGE BLANC 3,1%MG 19,2% (LAIT origine France)",
+            "d\u00e8s de BREBIS 19,2% (LAIT origine France)",
+            "MOZZARELLA 15,4% (LAIT origine France)",
+            "EMMENTAL r\u00e2p\u00e9 BIO 5,1% (LAIT origine France)"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PIZZA BLANCHE CH\u00c8VRE MIEL": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 23.0,
+            "Sucres simples": 14.2,
+            "Kj": 3913.0,
+            "Kcal": 938.0,
+            "Lipides": 47.5,
+            "Glucides": 80.3,
+            "Fibres": 3.7,
+            "Proteines": 47.5,
+            "Sel": 4.0
+        },
+        "ingredients": [
+            "PATE A PIZZA 44%",
+            "FROMAGE BLANC 3,1% MG 20,6% (LAIT origine France)",
+            "MOZZARELLA 16,5% (LAIT origine France)",
+            "FROMAGE au lait de VACHE-CHEVRE 9,3% (LAIT origine UE)",
+            "EMMENTAL r\u00e2p\u00e9 BIO 5,5% (LAIT origine France)",
+            "miel 2,7%",
+            "cerneaux de NOIX 1,4%"
+        ],
+        "allergenes": [
+            "Fruit \u00e0 coque",
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PIZZA BLANCHE GORGONZOLA VOLAILLE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 20.6,
+            "Sucres simples": 6.0,
+            "Kj": 3596.0,
+            "Kcal": 859.0,
+            "Lipides": 41.3,
+            "Glucides": 71.3,
+            "Fibres": 3.4,
+            "Proteines": 48.8,
+            "Sel": 4.9
+        },
+        "ingredients": [
+            "PATE A PIZZA 42,7%",
+            "FROMAGE BLANC 3,1%MG 20% (LAIT origine France)",
+            "GORGONZOLA AOP 13,3% (LAIT origine Italie)",
+            "\u00e9minc\u00e9 de cuisse de poulet 13,3% (origine France)",
+            "champignons 12,3%",
+            "MOZZARELLA 10,7% (LAIT origine France)",
+            "origan"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "PIZZA BLANCHE REBLOCHON": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 36.8,
+            "Sucres simples": 6.8,
+            "Kj": 4028.0,
+            "Kcal": 964.0,
+            "Lipides": 52.0,
+            "Glucides": 68.0,
+            "Fibres": 4.0,
+            "Proteines": 48.0,
+            "Sel": 4.0
+        },
+        "ingredients": [
+            "PATE A PIZZA 38,6%",
+            "FROMAGE BLANC 3,1% 18,1% (LAIT origine France)",
+            "MOZZARELLA 14,5% (LAIT origine France)",
+            "pommes de terre 12%",
+            "FROMAGE A TARTIFLETTE 12% (LAIT origine France)",
+            "EMMENTAL r\u00e2p\u00e9 BIO 4,8%  (LAIT origine France)"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PIZZA CH\u00c8VRE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 16.4,
+            "Sucres simples": 5.4,
+            "Kj": 3330.0,
+            "Kcal": 757.0,
+            "Lipides": 36.9,
+            "Glucides": 73.7,
+            "Fibres": 5.0,
+            "Proteines": 33.5,
+            "Sel": 4.0
+        },
+        "ingredients": [
+            "PATE A PIZZA 48,1%",
+            "MOZZARELLA 18% (LAIT origine France)",
+            "tomates concass\u00e9es 15%",
+            "b\u00fbche de FROMAGE 10,2% (LAIT origine UE)",
+            "sauce tomate 7,5%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 6% (LAIT origine France)",
+            "olives noires 3,6%",
+            "ail, basilic, origan"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PIZZA FLAMENKUCH": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 22.8,
+            "Sucres simples": 7.2,
+            "Kj": 3988.0,
+            "Kcal": 956.0,
+            "Lipides": 56.0,
+            "Glucides": 68.0,
+            "Fibres": 3.6,
+            "Proteines": 48.0,
+            "Sel": 5.2
+        },
+        "ingredients": [
+            "PATE A PIZZA 36%",
+            "lardons fum\u00e9s 22,5% (origine France)",
+            "FROMAGE BLANC 3,1% MG 16,9% (LAIT origine France)",
+            "MOZZARELLA 13,5% (LAIT origine France)",
+            "oignons 6,7%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 4,5% (LAIT origine France)"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "PIZZA GRECQUE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 22.8,
+            "Sucres simples": 7.2,
+            "Kj": 3432.0,
+            "Kcal": 820.0,
+            "Lipides": 44.0,
+            "Glucides": 68.0,
+            "Fibres": 5.6,
+            "Proteines": 39.6,
+            "Sel": 4.4
+        },
+        "ingredients": [
+            "PATE A PIZZA 35%",
+            "MOZZARELLA 13,1% (LAIT origine France)",
+            "tomates concass\u00e9es 10,9%",
+            "poivrons 10,9%",
+            "d\u00e8s de BREBIS 10,9% (LAIT origine France)",
+            "sauce tomate 5,5%",
+            "oignons 5,5%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 4,4% (LAIT origine France)",
+            "olives noires 2,6%",
+            "ail, basilic, origan"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PIZZA JAMBON FROMAGE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 17.8,
+            "Sucres simples": 6.3,
+            "Kj": 3539.0,
+            "Kcal": 845.0,
+            "Lipides": 39.5,
+            "Glucides": 71.1,
+            "Fibres": 5.5,
+            "Proteines": 43.5,
+            "Sel": 5.1
+        },
+        "ingredients": [
+            "PATE A PIZZA 40,6%",
+            "d\u00e8s de jambon 15,2% (origine UE)",
+            "MOZZARELLA 15,2% (LAIT origine France)",
+            "tomates concass\u00e9es 12,7%",
+            "sauce tomate 6,4%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 5,1% (LAIT origine France)",
+            "olives noires 3%",
+            "huile d'olive, basilic, ail, origan"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "PIZZA KEBAB": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 18.0,
+            "Sucres simples": 5.6,
+            "Kj": 3448.0,
+            "Kcal": 824.0,
+            "Lipides": 40.0,
+            "Glucides": 72.0,
+            "Fibres": 5.6,
+            "Proteines": 44.0,
+            "Sel": 4.8
+        },
+        "ingredients": [
+            "PATE A PIZZA 38,4%",
+            "lamelles de poulet fa\u00e7on kebab 14,4% (dont poulet 88% - origine France)",
+            "MOZZARELLA 14,4% (LAIT origine France)",
+            "tomates concass\u00e9es 12%",
+            "champignons 6%",
+            "sauce tomate 6%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 4,8% (LAIT origine France)",
+            "olives noires 2,9%",
+            "ail, basilic"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "PIZZA MADRIL\u00c8NE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 21.6,
+            "Sucres simples": 7.2,
+            "Kj": 3836.0,
+            "Kcal": 920.0,
+            "Lipides": 48.0,
+            "Glucides": 72.0,
+            "Fibres": 5.6,
+            "Proteines": 40.0,
+            "Sel": 6.0
+        },
+        "ingredients": [
+            "PATE A PIZZA 37%",
+            "MOZZARELLA 13,9% (LAIT origine France)",
+            "chorizo doux 11,6% (origine France)",
+            "tomates concass\u00e9es 11,6%",
+            "poivrons 11,6%",
+            "sauce tomate 5,8%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 4,6% (LAIT origine France)",
+            "olives noires 2,8%",
+            "ail, basilic, origan"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "PIZZA MARGHERITA": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 16.4,
+            "Sucres simples": 5.4,
+            "Kj": 3162.0,
+            "Kcal": 757.0,
+            "Lipides": 36.9,
+            "Glucides": 73.7,
+            "Fibres": 5.0,
+            "Proteines": 33.5,
+            "Sel": 4.0
+        },
+        "ingredients": [
+            "PATE A PIZZA 48,1%",
+            "MOZZARELLA 18% (LAIT origine France)",
+            "tomates concass\u00e9es 15%",
+            "sauce tomate 7,5%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 6% (LAIT origine France)",
+            "olives noires 3,6%",
+            "ail, basilic, origan"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "PIZZA ORIENTALE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 22.4,
+            "Sucres simples": 7.2,
+            "Kj": 3636.0,
+            "Kcal": 868.0,
+            "Lipides": 44.0,
+            "Glucides": 72.0,
+            "Fibres": 5.2,
+            "Proteines": 44.0,
+            "Sel": 4.8
+        },
+        "ingredients": [
+            "PATE A PIZZA 39,3%",
+            "MOZZARELLA 14,7% (LAIT origine France)",
+            "tomates concass\u00e9es 12,3%",
+            "merguez 12,3% (dont viande de boeuf 86%, viande de mouton 3% - origine UE et non UE)",
+            "sauce tomate 6,1%",
+            "poivrons 6,1%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 4,9% (LAIT origine France)",
+            "olives noires 2,9%",
+            "ail, basilic, origan"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "PIZZA POULET": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 16.0,
+            "Sucres simples": 5.6,
+            "Kj": 3264.0,
+            "Kcal": 780.0,
+            "Lipides": 36.8,
+            "Glucides": 68.0,
+            "Fibres": 6.0,
+            "Proteines": 44.0,
+            "Sel": 4.4
+        },
+        "ingredients": [
+            "PATE A PIZZA 37,3%",
+            "MOZZARELLA 14% (LAIT origine France)",
+            "tomates concass\u00e9es 11,7%",
+            "\u00e9minc\u00e9 de cuisse de poulet 11,7% (origine France)",
+            "EMMENTAL r\u00e2p\u00e9 BIO 4,7% (LAIT origine France)",
+            "sauce tomate 5,8%",
+            "olives noires 2,8%",
+            "basilic, ail, origan"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "PIZZA REINE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 16.0,
+            "Sucres simples": 6.0,
+            "Kj": 3192.0,
+            "Kcal": 764.0,
+            "Lipides": 35.6,
+            "Glucides": 68.0,
+            "Fibres": 6.4,
+            "Proteines": 40.0,
+            "Sel": 48.0
+        },
+        "ingredients": [
+            "PATE A PIZZA 37,3%",
+            "MOZZARELLA 14% (LAIT origine France)",
+            "tomates concass\u00e9es 11,7%",
+            "d\u00e8s de jambon 11,7% (origine UE)",
+            "champignons 10,7%",
+            "sauce tomate 5,8%",
+            "EMMENTAL r\u00e2p\u00e9 BIO 4,7% (LAIT origine France)",
+            "olives noires 2,8%",
+            "ail, basilic, origan"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "P\u00c2TES SAUCE BOLOGNAISE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 11.2,
+            "Sucres simples": 6.0,
+            "Kj": 2268.0,
+            "Kcal": 544.0,
+            "Lipides": 24.8,
+            "Glucides": 52.0,
+            "Fibres": 6.4,
+            "Proteines": 24.0,
+            "Sel": 1.0
+        },
+        "ingredients": [
+            "PATES cuites au BEURRE 52,9%",
+            "boeuf h\u00e2ch\u00e9 17,7% (origine France)",
+            "tomates concass\u00e9es 14,5%",
+            "oignons 7,3%",
+            "concentr\u00e9 de tomate 2,1%",
+            "ail 2,1%",
+            "BEURRE 2,1%",
+            "huile de tournesol/olive, herbres de Provence, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "P\u00c2TES SAUCE BOULETTE DE BOEUF TOMATE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 11.6,
+            "Sucres simples": 6.0,
+            "Kj": 2288.0,
+            "Kcal": 548.0,
+            "Lipides": 26.4,
+            "Glucides": 52.0,
+            "Fibres": 6.0,
+            "Proteines": 24.4,
+            "Sel": 1.0
+        },
+        "ingredients": [
+            "PATES cuites au BEURRE 51,2%",
+            "boulette de boeuf 20,5% (viande bovine Charolaise 100% - origine France)",
+            "tomates concass\u00e9es 14%",
+            "oignons 7%",
+            "BEURRE 2%",
+            "ail 2%",
+            "concentr\u00e9 de tomate 2%",
+            "huile de tournesol/olive, herbes de Provence, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "P\u00c2TES SAUCE CARBONARA": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 18.4,
+            "Sucres simples": 6.4,
+            "Kj": 2892.0,
+            "Kcal": 692.0,
+            "Lipides": 38.4,
+            "Glucides": 60.0,
+            "Fibres": 4.0,
+            "Proteines": 23.6,
+            "Sel": 2.8
+        },
+        "ingredients": [
+            "PATES cuites au BEURRE 52,8%",
+            "LAIT demi \u00e9cr\u00e9m\u00e9 BIO 20,7% (LAIT origine France)",
+            "lardons fum\u00e9s 17,6% (dont poitrine de porc 88% - origine France)",
+            "CREME fraiche 18% MG 4,1% (LAIT origine France)",
+            "BEURRE 3,3%",
+            "FARINE, sel, poivre, muscade"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "P\u00c2TES SAUCE FORESTI\u00c8RE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 10.4,
+            "Sucres simples": 3.6,
+            "Kj": 2064.0,
+            "Kcal": 492.0,
+            "Lipides": 18.0,
+            "Glucides": 64.0,
+            "Fibres": 6.8,
+            "Proteines": 14.0,
+            "Sel": 0.96
+        },
+        "ingredients": [
+            "PATES cuites au BEURRE 64,2%",
+            "champignons \u00e9minc\u00e9s 13,5%",
+            "m\u00e9lange de champignons forestiers 12,8% (bolets jaunes, c\u00e8pes, lactaires, pleurotes)",
+            "CREME fraiche 18% MG 5,1% (LAIT origine France)",
+            "BEURRE 2,6%",
+            "huile de tournesol/olive, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "P\u00c2TES SAUCE KEBAB CHAMPIGNONS": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 10.4,
+            "Sucres simples": 4.0,
+            "Kj": 2416.0,
+            "Kcal": 576.0,
+            "Lipides": 23.2,
+            "Glucides": 62.8,
+            "Fibres": 6.4,
+            "Proteines": 25.6,
+            "Sel": 2.6
+        },
+        "ingredients": [
+            "PATES AU BEURRE 58,2%",
+            "lamelles de poulet fa\u00e7on kebab 19,4% (origine France)",
+            "tomates pel\u00e9es concass\u00e9es 6,1%",
+            "champignons 5,3%",
+            "oignons 4%",
+            "CREME fraiche 18% MG 2,3% (LAIT origine France)",
+            "BEURRE 1,4%",
+            "FARINE 1,4%",
+            "huile de tournesol/olive, garam massala, piment doux, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "P\u00c2TES SAUCE PESTO": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 9.6,
+            "Sucres simples": 2.4,
+            "Kj": 3272.0,
+            "Kcal": 784.0,
+            "Lipides": 38.8,
+            "Glucides": 84.8,
+            "Fibres": 7.2,
+            "Proteines": 19.2,
+            "Sel": 1.3
+        },
+        "ingredients": [
+            "PATES cuites au BEURRE 86,3%",
+            "huile de tournesol/olive 6,,1%",
+            "PARMESAN r\u00e2p\u00e9 AOP 2,9% (LAIT origine France)",
+            "basilic 2,4%",
+            "PIGNONS de PIN 1,4%",
+            "ail, sel, VINAIGRE balsamique, poivre"
+        ],
+        "allergenes": [
+            "Fruit \u00e0 coque",
+            "Gluten",
+            "Soja",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "P\u00c2TES SAUCE POULET FA\u00c7ON CORDON BLEU": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 12.0,
+            "Sucres simples": 6.0,
+            "Kj": 2420.0,
+            "Kcal": 580.0,
+            "Lipides": 22.8,
+            "Glucides": 62.0,
+            "Fibres": 4.0,
+            "Proteines": 28.4,
+            "Sel": 2.0
+        },
+        "ingredients": [
+            "PATES cuites au BEURRE 55,1%",
+            "LAIT demi - \u00e9cr\u00e9m\u00e9 bio 21,6% (LAIT origine France)",
+            "\u00e9minc\u00e9 de poulet 18,4% (origine France)",
+            "BEURRE 3,5%",
+            "FARINE 1,3%",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "P\u00c2TES SAUCE ROUGAIL SAUCISSE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 16.0,
+            "Sucres simples": 5.2,
+            "Kj": 2624.0,
+            "Kcal": 628.0,
+            "Lipides": 35.6,
+            "Glucides": 53.6,
+            "Fibres": 5.6,
+            "Proteines": 20.8,
+            "Sel": 2.6
+        },
+        "ingredients": [
+            "PATES cuites au BEURRE 54,4%",
+            "chipolata 21,8%",
+            "tomates pel\u00e9es concass\u00e9es 14,9%",
+            "oignons 3,7%",
+            "BEURRE 2,1%",
+            "concentr\u00e9 de tomate 2,1%",
+            "huile de tournesol/olive, ail, sel, gingembre, piment fort"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "P\u00c2TES SAUCE VOLAILLE \u00c0 L'OSEILLE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 10.4,
+            "Sucres simples": 3.6,
+            "Kj": 2364.0,
+            "Kcal": 564.0,
+            "Lipides": 18.0,
+            "Glucides": 63.6,
+            "Fibres": 5.2,
+            "Proteines": 31.2,
+            "Sel": 1.6
+        },
+        "ingredients": [
+            "PATES AU BEURRE 62,3%",
+            "\u00e9minc\u00e9 de dinde 20,8% (origine France)",
+            "CREME fraiche 18% MG 4,9% (LAIT origine France)",
+            "oignons 4,3%",
+            "BEURRE 2,4%",
+            "FARINE 2%",
+            "oseille h\u00e2ch\u00e9e 1,7%",
+            "VIN blanc, bouillon de volaille [contient CELERI], sel, poivre"
+        ],
+        "allergenes": [
+            "C\u00e9leri",
+            "Gluten",
+            "Lait",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "P\u00c2TES SAUCE VOLAILLE \u00c0 LA CR\u00c8ME": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 9.2,
+            "Sucres simples": 4.0,
+            "Kj": 2116.0,
+            "Kcal": 508.0,
+            "Lipides": 17.6,
+            "Glucides": 52.0,
+            "Fibres": 4.8,
+            "Proteines": 30.4,
+            "Sel": 0.88
+        },
+        "ingredients": [
+            "PATES cuites au BEURRE 51,7%",
+            "\u00e9minc\u00e9 de dinde 20,7% (origine France)",
+            "champignons 10,6%",
+            "CREME fraiche 18% MG 10,1% (LAIT origine France)",
+            "oignons 3,5%",
+            "FARINE, BEURRE, huile de tournesol/olive, VIN blanc, ail, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Sulfites"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "RAVIOLI SAUCE TOMATE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 8.1,
+            "Sucres simples": 7.5,
+            "Kj": 1899.0,
+            "Kcal": 456.0,
+            "Lipides": 18.3,
+            "Glucides": 54.0,
+            "Fibres": 5.1,
+            "Proteines": 17.7,
+            "Sel": 2.5
+        },
+        "ingredients": [
+            "RAVIOLI farcis au boeuf 57,4% (dont viande de boeuf 10%)",
+            "tomates pel\u00e9es concass\u00e9es 20,1%",
+            "oignons 10%",
+            "EMMENTAL r\u00e2p\u00e9 bio 5,7% (LAIT origine France)",
+            "concentr\u00e9 de tomate 2,9%",
+            "BEURRE, huile de tournesol/olive, ail, herbes de Provence, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "RAVIOLIS SAUCE PISTOU": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 14.7,
+            "Sucres simples": 3.9,
+            "Kj": 3414.0,
+            "Kcal": 816.0,
+            "Lipides": 48.0,
+            "Glucides": 72.0,
+            "Fibres": 4.2,
+            "Proteines": 26.4,
+            "Sel": 3.6
+        },
+        "ingredients": [
+            "RAVIOLI farcis au boeuf 76,4% (dont viande de boeuf 10%)",
+            "EMMENTAL r\u00e2p\u00e9 BIO 7,6% (LAIT origine France)",
+            "huile de tournesol/olive 7,6%",
+            "basilic 3,8%",
+            "BEURRE 2,3%",
+            "PARMESAN r\u00e2p\u00e9 AOP 1,9% (LAIT origine Italie)",
+            "sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": false,
+        "halal": false
+    },
+    "TORTELLINI AUX FROMAGES SAUCE CR\u00c8ME": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 14.6,
+            "Sucres simples": 5.4,
+            "Kj": 2535.0,
+            "Kcal": 608.0,
+            "Lipides": 25.1,
+            "Glucides": 75.6,
+            "Fibres": 4.1,
+            "Proteines": 20.0,
+            "Sel": 3.0
+        },
+        "ingredients": [
+            "TORTELLINI 4 FROMAGES 73,8% (dont farce 28% vontient [RICOTTA 56%, CHAPELURE, flocons de pommes de terre s\u00e9ch\u00e9es, PECORINO 5%, GRANA PADANO 5%, FROMAGE \u00e0 p\u00e2te dure 5%])",
+            "CREME fraiche 18% MG 22,2% (LAIT origine France)",
+            "FARINE, BEURRE, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "TORTELLINI AUX FROMAGES SAUCE FORESTI\u00c8RE": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 10.5,
+            "Sucres simples": 7.0,
+            "Kj": 2297.0,
+            "Kcal": 550.0,
+            "Lipides": 19.9,
+            "Glucides": 70.2,
+            "Fibres": 6.2,
+            "Proteines": 21.1,
+            "Sel": 3.2
+        },
+        "ingredients": [
+            "TORTELLINI 4 FROMAGES 51,1% (dont farce 28% vontient [RICOTTA 56%, CHAPELURE, flocons de pommes de terre s\u00e9ch\u00e9es, PECORINO 5%, GRANA PADANO 5%, FROMAGE \u00e0 p\u00e2te dure 5%])",
+            "champignons de Paris 17,9%",
+            "CREME fraiche 18% MG 15,3% (LAIT origine France)",
+            "m\u00e9lange de champignons forestiers 8,9% (bolets jaunes, lentins de ch\u00eane, c\u00e8pes, pleurotes)",
+            "oignons 4,5%",
+            "FARINE, bouillon de l\u00e9gumes, huile d'olive/tournesol, sel, poivre"
+        ],
+        "allergenes": [
+            "Gluten",
+            "Lait",
+            "Oeuf"
+        ],
+        "vegetarien": true,
+        "halal": true
+    },
+    "TORTELLINI AUX FROMAGES SAUCE PESTO": {
+        "valeur nutritionnelle": {
+            "Acides gras satures": 9.3,
+            "Sucres simples": 3.0,
+            "Kj": 2870.0,
+            "Kcal": 688.0,
+            "Lipides": 35.0,
+            "Glucides": 70.0,
+            "Fibres": 4.8,
+            "Proteines": 22.5,
+            "Sel": 3.0
+        },
+        "ingredients": [
+            "TORTELLINI 4 FROMAGES 81,6% (dont farce 28% vontient [RICOTTA 56%, CHAPELURE, flocons de pommes de terre s\u00e9ch\u00e9es, PECORINO 5%, GRANA PADANO 5%, FROMAGE \u00e0 p\u00e2te dure 5%])",
+            "huile de tournesol/olive 7,3%",
+            "PARMESAN r\u00e2p\u00e9 AOP 4,1% (LAIT origine Italie)",
+            "basilic 4,1%",
+            "PIGNONS de PIN 1,6%",
+            "ail, VINAIGRE balsamique, sel, poivre"
+        ],
+        "allergenes": [
+            "Fruit \u00e0 coque",
+            "Gluten",
+            "Lait",
+            "Oeuf",
+            "Sulfites"
+        ],
+        "vegetarien": true,
+        "halal": true
+    }
+}
